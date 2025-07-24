@@ -1,0 +1,2672 @@
+[
+  {
+    "symbol": "BTC-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1535424203000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ETH-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1545378827000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SOL-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1637833825870",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DOGE-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1612256400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "XRP-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1545378827000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ADA-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1582888608000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ATOM-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1535424203000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AVAX-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1637833836891",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BCH-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1545378827000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DOT-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599041571000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ETC-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1545378827000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "FIL-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1607580000000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LINK-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1582888608000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LTC-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1545378827000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "OP-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715588701379",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SUI-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1729234800104",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TRX-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1547611763000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "UNI-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1600340400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "XLM-USD-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1535424203000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BTC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1573557408000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ETH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1573557408000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SOL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611298800000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TON-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1672210451828",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DOGE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "XRP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1573557408000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SPK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750156200346",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740042000388",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SAHARA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750941000359",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "1INCH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1608863400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "A-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748514600412",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AAVE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1607580000000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ACE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1702884300614",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ACH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1708590301084",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ACT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731582000644",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ADA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1582888608000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AERO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1751523300260",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AEVO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710325520298",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AGLD-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1631008650016",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AI16Z-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1734686100190",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AIDOGE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1683086103049",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AIXBT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1735887600188",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ALCH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1735888500097",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ALGO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ANIME-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737644401356",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "APE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1647522059555",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "API3-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1646297716213",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "APT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1666142328522",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1676357700186",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ARB-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1679580094937",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ARC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737716401522",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ARKM-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732177800122",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ATH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1718250900308",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ATOM-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1573557408000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AUCTION-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1701417300613",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AVAX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1600840800000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AVAAI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737975602080",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "AXS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1627462800000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BABY-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744282800387",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BADGER-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611910800000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BAL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599646371000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BAND-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599473571000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BAT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1598609571000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BCH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1573557408000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BERA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738850401850",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BICO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1639032617371",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BIGTIME-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1697115300862",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BIO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1735901100474",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BLUR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1676429700181",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BNB-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1671778428049",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BNT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1608620400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BOME-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723717202042",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BONK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1704695217299",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BRETT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1725617701730",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CAT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1725618600681",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CATI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1726828200112",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CELO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1632477785202",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CETUS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1683716471697",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CFX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1615539600000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CHZ-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1615539600000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "COMP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "COOKIE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737718200560",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CORE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1675864514708",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CRO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1617872400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CRV-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599214371000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CSPR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620982800000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CTC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1702540523695",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CVC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1607580000000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "CVX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1719303900750",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DEGEN-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732176000192",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DGB-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1709281500656",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DOGS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1724675400737",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DOG-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731996004461",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DOOD-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1747051200521",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DOT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1598350371000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DUCK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737025200797",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "DYDX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1631117510421",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "EGLD-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1608620400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "EIGEN-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727764200682",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ENJ-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1709288701407",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ENS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1636623946265",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ETC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1573557408000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ETHW-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1663311331635",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ETHFI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710764700945",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "FARTCOIN-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1734685200393",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "FIL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1565431971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "FLM-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1601359200000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "FLOKI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1676876100607",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "FLOW-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1699350900756",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "FXS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1705046100655",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GALA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1632477789599",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GAS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1698141300695",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GLM-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715329501418",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GMT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1648803369890",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GMX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1675321542847",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GOAT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1729760401829",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GODS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1636113037912",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GPS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741089600468",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GRASS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1730125800597",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GRIFFAIN-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1735282800164",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "GRT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1608458400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "H-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1751522400413",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "HBAR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1692165300823",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "HMSTR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727353800176",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "HOME-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1749809700256",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "HUMA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748266200433",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "HYPE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740121200506",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ICP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620982800000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ICX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1708687651159",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ID-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1702029300682",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "IMX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1637218222034",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "INIT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1745494200437",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "INJ-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1701345300667",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "IOST-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "IOTA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "IP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1739440801995",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "JELLYJELLY-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743004470352",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "JOE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1704966900579",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "JST-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599559971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "JTO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1704696900623",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "JUP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1706717100211",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "KAITO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740060000331",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "KMNO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748575800335",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "KSM-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599559971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1749808800320",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LAUNCHCOIN-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748945700339",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LAYER-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1739284200817",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LDO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1675321369323",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LINK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1582888608000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LPT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1619161200000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LQTY-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1705053300717",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LRC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599646371000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LTC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1573557408000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LUNA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653746082125",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "LUNC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1662706704613",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MAGIC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1675321549791",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MAJOR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732798800111",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MANA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1615539600000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MASK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1614841200000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ME-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733844600107",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MEME-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1699001700715",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MERL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713522300606",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "METIS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1703757300614",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MEW-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713169500531",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MINA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1623229200000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MKR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1598004771000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MOG-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1752729300240",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MOODENG-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727938802849",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MORPHO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732528800980",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MOVE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733749202646",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "MUBARAK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748946600286",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "NEAR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1608544800000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "NEIROETH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1725616800257",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "NEIRO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727939701217",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "NEO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1582888608000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "NIL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1746688500371",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "NMR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1704959700642",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "NOT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715862465350",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "NXPC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748944800562",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "OL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732266004408",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "OM-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1708417500167",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ONDO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1722940203957",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ONE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1708426039038",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ONT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "OP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1654055717137",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ORBS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1697514900740",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ORDI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1684662900862",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PARTI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742909400471",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PENGU-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1734450902264",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PEOPLE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1638427889758",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PEPE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1683086101049",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PERP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1617354000000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PLUME-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1746689400330",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PNUT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731382200304",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "POL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727166600128",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "POPCAT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1724922000651",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PRCL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713273900088",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PROMPT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744291800317",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PUMP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1752514200381",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PYTH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700492100712",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "QTUM-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "RAY-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710239100609",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "RDNT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1682319300799",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "RENDER-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723105800136",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "RESOLV-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1749565800438",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "RSR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599646371000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "RVN-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1619161200000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "S-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737450000523",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SAND-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1617354000000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SATS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1702889700612",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SCR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1729602002820",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SHELL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740657600557",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SHIB-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620550800000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SIGN-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1745839800340",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SLP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1629972222770",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SNX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1598004771000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SOLV-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737108900454",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SONIC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736258400905",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SOON-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1747999800456",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SOPH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748439000413",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SPX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1752728400453",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SSV-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700711700717",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "STORJ-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599646371000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "STRK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1708433700141",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "STX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1676969758164",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SUI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1683258900891",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SUSHI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599041571000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SWARMS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737717300103",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SYRUP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1751524200291",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "T-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1708676700613",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TAO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1726808400182",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "THETA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TIA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1698776700675",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TNSR-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1712592120492",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TRB-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599559971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TRUMP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737264604112",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TRX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1573557408000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "TURBO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1702547700612",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "UMA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599214371000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "UNI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1600317000000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "USDC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1678607700793",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "USTC-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1667458491385",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "UXLINK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1721293204025",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "VANA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1734408000582",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "VINE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737889201529",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "VIRTUAL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733911200140",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "W-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1712147100572",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "WAL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1746687600526",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "WAXP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1697687700843",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "WCT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744716600433",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "WIF-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713173100603",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "WLD-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1690199721595",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "WOO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1676357700337",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "XAUT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744192800563",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "XCH-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620464400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "XLM-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "XTZ-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1587463971000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "YFI-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599041571000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "YGG-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1628240400000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ZENT-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715243100398",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ZEREBRO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1735283702001",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ZETA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1706757900607",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ZIL-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1599646371000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ZK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1718699100579",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ZRO-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1718886300653",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ZRX-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1598004771000",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "BTC-USDC-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1666076190148",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "ETH-USDC-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1666076197702",
+    "exchange": "okx",
+    "type": "swap"
+  }
+]

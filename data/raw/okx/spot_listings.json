@@ -1,0 +1,7502 @@
+[
+  {
+    "symbol": "USDT-SGD",
+    "baseCurrency": "USDT",
+    "quoteCurrency": "SGD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1734678000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDC-SGD",
+    "baseCurrency": "USDC",
+    "quoteCurrency": "SGD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1734678600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTC-AUD",
+    "baseCurrency": "BTC",
+    "quoteCurrency": "AUD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723782600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-AUD",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "AUD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723784400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-AUD",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "AUD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733798100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XRP-AUD",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "AUD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733798400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRUMP-AUD",
+    "baseCurrency": "TRUMP",
+    "quoteCurrency": "AUD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737543000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDT-AUD",
+    "baseCurrency": "USDT",
+    "quoteCurrency": "AUD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723779000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDC-AUD",
+    "baseCurrency": "USDC",
+    "quoteCurrency": "AUD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723780800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTC-AED",
+    "baseCurrency": "BTC",
+    "quoteCurrency": "AED",
+    "state": "live",
+    "category": "1",
+    "listTime": "1726545900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-AED",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "AED",
+    "state": "live",
+    "category": "1",
+    "listTime": "1726546200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-AED",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "AED",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733799900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XRP-AED",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "AED",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733800200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRUMP-AED",
+    "baseCurrency": "TRUMP",
+    "quoteCurrency": "AED",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737542400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDT-AED",
+    "baseCurrency": "USDT",
+    "quoteCurrency": "AED",
+    "state": "live",
+    "category": "1",
+    "listTime": "1726545600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTC-BRL",
+    "baseCurrency": "BTC",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1707359400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-BRL",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1707360300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-BRL",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733799300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XRP-BRL",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733799600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PI-BRL",
+    "baseCurrency": "PI",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741338000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PEPE-BRL",
+    "baseCurrency": "PEPE",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715045400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRUMP-BRL",
+    "baseCurrency": "TRUMP",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737542100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDT-BRL",
+    "baseCurrency": "USDT",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1707361200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDC-BRL",
+    "baseCurrency": "USDC",
+    "quoteCurrency": "BRL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715044800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTC-EUR",
+    "baseCurrency": "BTC",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-EUR",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-EUR",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TON-EUR",
+    "baseCurrency": "TON",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710393000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOGE-EUR",
+    "baseCurrency": "DOGE",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XRP-EUR",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710383400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PI-EUR",
+    "baseCurrency": "PI",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741336200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "1INCH-EUR",
+    "baseCurrency": "1INCH",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AAVE-EUR",
+    "baseCurrency": "AAVE",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710389100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ADA-EUR",
+    "baseCurrency": "ADA",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ALGO-EUR",
+    "baseCurrency": "ALGO",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710388200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "APE-EUR",
+    "baseCurrency": "APE",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710390600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "APT-EUR",
+    "baseCurrency": "APT",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710385500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARB-EUR",
+    "baseCurrency": "ARB",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710387300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ASTR-EUR",
+    "baseCurrency": "ASTR",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710391800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ATOM-EUR",
+    "baseCurrency": "ATOM",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710384900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AVAX-EUR",
+    "baseCurrency": "AVAX",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AXS-EUR",
+    "baseCurrency": "AXS",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710391200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BAL-EUR",
+    "baseCurrency": "BAL",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715073000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BAT-EUR",
+    "baseCurrency": "BAT",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715073600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CHZ-EUR",
+    "baseCurrency": "CHZ",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710390900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "COMP-EUR",
+    "baseCurrency": "COMP",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CRO-EUR",
+    "baseCurrency": "CRO",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710387000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CRV-EUR",
+    "baseCurrency": "CRV",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOT-EUR",
+    "baseCurrency": "DOT",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DYDX-EUR",
+    "baseCurrency": "DYDX",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "EGLD-EUR",
+    "baseCurrency": "EGLD",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710388500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FET-EUR",
+    "baseCurrency": "FET",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710991800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLOW-EUR",
+    "baseCurrency": "FLOW",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710388800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLR-EUR",
+    "baseCurrency": "FLR",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710387900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FXS-EUR",
+    "baseCurrency": "FXS",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710990000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GRT-EUR",
+    "baseCurrency": "GRT",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710386700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "HBAR-EUR",
+    "baseCurrency": "HBAR",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710394200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ICP-EUR",
+    "baseCurrency": "ICP",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710393300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IMX-EUR",
+    "baseCurrency": "IMX",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710393600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "INJ-EUR",
+    "baseCurrency": "INJ",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710993600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JTO-EUR",
+    "baseCurrency": "JTO",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715074800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LDO-EUR",
+    "baseCurrency": "LDO",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710392400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LINK-EUR",
+    "baseCurrency": "LINK",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LTC-EUR",
+    "baseCurrency": "LTC",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LUNC-EUR",
+    "baseCurrency": "LUNC",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715076600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MANA-EUR",
+    "baseCurrency": "MANA",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710392100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MINA-EUR",
+    "baseCurrency": "MINA",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710389400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MKR-EUR",
+    "baseCurrency": "MKR",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710387600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OP-EUR",
+    "baseCurrency": "OP",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710393900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAND-EUR",
+    "baseCurrency": "SAND",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710390300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SHIB-EUR",
+    "baseCurrency": "SHIB",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SNX-EUR",
+    "baseCurrency": "SNX",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710389700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STX-EUR",
+    "baseCurrency": "STX",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710385200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SUI-EUR",
+    "baseCurrency": "SUI",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715072400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SUSHI-EUR",
+    "baseCurrency": "SUSHI",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700049745000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRUMP-EUR",
+    "baseCurrency": "TRUMP",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737542700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRX-EUR",
+    "baseCurrency": "TRX",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "UNI-EUR",
+    "baseCurrency": "UNI",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDT-EUR",
+    "baseCurrency": "USDT",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700049040000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDC-EUR",
+    "baseCurrency": "USDC",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700539860000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WIF-EUR",
+    "baseCurrency": "WIF",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715074200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WOO-EUR",
+    "baseCurrency": "WOO",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710988200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XLM-EUR",
+    "baseCurrency": "XLM",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710386400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XTZ-EUR",
+    "baseCurrency": "XTZ",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710391500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "YGG-EUR",
+    "baseCurrency": "YGG",
+    "quoteCurrency": "EUR",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715076000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTC-USD",
+    "baseCurrency": "BTC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733454000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-USD",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733455800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-USD",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733457600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TON-USD",
+    "baseCurrency": "TON",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744093200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOGE-USD",
+    "baseCurrency": "DOGE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736907600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XRP-USD",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733797800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SPK-USD",
+    "baseCurrency": "SPK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750161600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PI-USD",
+    "baseCurrency": "PI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740108600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAHARA-USD",
+    "baseCurrency": "SAHARA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750946400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "A-USD",
+    "baseCurrency": "A",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748520000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AAVE-USD",
+    "baseCurrency": "AAVE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736907900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ACA-USD",
+    "baseCurrency": "ACA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742882400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ACE-USD",
+    "baseCurrency": "ACE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742277600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ACH-USD",
+    "baseCurrency": "ACH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738923000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ADA-USD",
+    "baseCurrency": "ADA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743487200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AERGO-USD",
+    "baseCurrency": "AERGO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742277900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AEVO-USD",
+    "baseCurrency": "AEVO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743487500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AGLD-USD",
+    "baseCurrency": "AGLD",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743487800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AIXBT-USD",
+    "baseCurrency": "AIXBT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740032700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ALGO-USD",
+    "baseCurrency": "ALGO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743488100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ALPHA-USD",
+    "baseCurrency": "ALPHA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742882700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ANIME-USD",
+    "baseCurrency": "ANIME",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737689400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "APE-USD",
+    "baseCurrency": "APE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743488400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "API3-USD",
+    "baseCurrency": "API3",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742883000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "APT-USD",
+    "baseCurrency": "APT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743488700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AR-USD",
+    "baseCurrency": "AR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742278200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARB-USD",
+    "baseCurrency": "ARB",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736908200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARG-USD",
+    "baseCurrency": "ARG",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742278500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARKM-USD",
+    "baseCurrency": "ARKM",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743489000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ASTR-USD",
+    "baseCurrency": "ASTR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742883300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ATH-USD",
+    "baseCurrency": "ATH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737973500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ATOM-USD",
+    "baseCurrency": "ATOM",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743489300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AUCTION-USD",
+    "baseCurrency": "AUCTION",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742883600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AVAX-USD",
+    "baseCurrency": "AVAX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736908500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AXS-USD",
+    "baseCurrency": "AXS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742883900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BABYDOGE-USD",
+    "baseCurrency": "BABYDOGE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742279100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BABY-USD",
+    "baseCurrency": "BABY",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744287300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BADGER-USD",
+    "baseCurrency": "BADGER",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742884200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BAL-USD",
+    "baseCurrency": "BAL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742884500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BANANA-USD",
+    "baseCurrency": "BANANA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738921200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BAND-USD",
+    "baseCurrency": "BAND",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742884800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BAT-USD",
+    "baseCurrency": "BAT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742885100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BCH-USD",
+    "baseCurrency": "BCH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743489600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BERA-USD",
+    "baseCurrency": "BERA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738899000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BICO-USD",
+    "baseCurrency": "BICO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742885400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BIGTIME-USD",
+    "baseCurrency": "BIGTIME",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744265100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BIO-USD",
+    "baseCurrency": "BIO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740033000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BLUR-USD",
+    "baseCurrency": "BLUR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743489900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BNB-USD",
+    "baseCurrency": "BNB",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742279400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BNT-USD",
+    "baseCurrency": "BNT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741848600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BOME-USD",
+    "baseCurrency": "BOME",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737973200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BONK-USD",
+    "baseCurrency": "BONK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743490200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CATI-USD",
+    "baseCurrency": "CATI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740031800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CAT-USD",
+    "baseCurrency": "CAT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742280900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CELO-USD",
+    "baseCurrency": "CELO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742281200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CELR-USD",
+    "baseCurrency": "CELR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742885700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CETUS-USD",
+    "baseCurrency": "CETUS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742281500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CFG-USD",
+    "baseCurrency": "CFG",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742281800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CFX-USD",
+    "baseCurrency": "CFX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742282100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CHZ-USD",
+    "baseCurrency": "CHZ",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743490500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CITY-USD",
+    "baseCurrency": "CITY",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738919100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CLV-USD",
+    "baseCurrency": "CLV",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742886000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "COMP-USD",
+    "baseCurrency": "COMP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736908800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CORE-USD",
+    "baseCurrency": "CORE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742282400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CRO-USD",
+    "baseCurrency": "CRO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743490800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CRV-USD",
+    "baseCurrency": "CRV",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736909100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CSPR-USD",
+    "baseCurrency": "CSPR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742282700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CTC-USD",
+    "baseCurrency": "CTC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742283000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CVC-USD",
+    "baseCurrency": "CVC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742886300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CVX-USD",
+    "baseCurrency": "CVX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742886600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CXT-USD",
+    "baseCurrency": "CXT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744265400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DAI-USD",
+    "baseCurrency": "DAI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736909400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DAO-USD",
+    "baseCurrency": "DAO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742283600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DEGEN-USD",
+    "baseCurrency": "DEGEN",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737970800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DEP-USD",
+    "baseCurrency": "DEP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742283900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DGB-USD",
+    "baseCurrency": "DGB",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742284200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOGS-USD",
+    "baseCurrency": "DOGS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743491100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOT-USD",
+    "baseCurrency": "DOT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743491400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DUCK-USD",
+    "baseCurrency": "DUCK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738920900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DYDX-USD",
+    "baseCurrency": "DYDX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743491700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "EGLD-USD",
+    "baseCurrency": "EGLD",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742886900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "EIGEN-USD",
+    "baseCurrency": "EIGEN",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743492000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ELF-USD",
+    "baseCurrency": "ELF",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742284500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ELON-USD",
+    "baseCurrency": "ELON",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742364000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ENJ-USD",
+    "baseCurrency": "ENJ",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742887200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ENS-USD",
+    "baseCurrency": "ENS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736909700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ERN-USD",
+    "baseCurrency": "ERN",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741846500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETC-USD",
+    "baseCurrency": "ETC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743492600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETHFI-USD",
+    "baseCurrency": "ETHFI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737975000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETHW-USD",
+    "baseCurrency": "ETHW",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743492900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "EURC-USD",
+    "baseCurrency": "EURC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742364300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FIL-USD",
+    "baseCurrency": "FIL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743660000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLM-USD",
+    "baseCurrency": "FLM",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741851300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLOKI-USD",
+    "baseCurrency": "FLOKI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742796000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLOW-USD",
+    "baseCurrency": "FLOW",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742887500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLR-USD",
+    "baseCurrency": "FLR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743660300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLUID-USD",
+    "baseCurrency": "FLUID",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743076800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FORTH-USD",
+    "baseCurrency": "FORTH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744265700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "G-USD",
+    "baseCurrency": "G",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743055200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GALA-USD",
+    "baseCurrency": "GALA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743660600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GAS-USD",
+    "baseCurrency": "GAS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742364600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GEAR-USD",
+    "baseCurrency": "GEAR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742364900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GHST-USD",
+    "baseCurrency": "GHST",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741848000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GLMR-USD",
+    "baseCurrency": "GLMR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741847100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GLM-USD",
+    "baseCurrency": "GLM",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742365200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GMT-USD",
+    "baseCurrency": "GMT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743493200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GOAT-USD",
+    "baseCurrency": "GOAT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738918800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GODS-USD",
+    "baseCurrency": "GODS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742365800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GRT-USD",
+    "baseCurrency": "GRT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743660900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "HBAR-USD",
+    "baseCurrency": "HBAR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743661200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "HMSTR-USD",
+    "baseCurrency": "HMSTR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742366400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "HUMA-USD",
+    "baseCurrency": "HUMA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1749038400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ICE-USD",
+    "baseCurrency": "ICE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742366700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ICP-USD",
+    "baseCurrency": "ICP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743661500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ICX-USD",
+    "baseCurrency": "ICX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743055500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ID-USD",
+    "baseCurrency": "ID",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742367000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ILV-USD",
+    "baseCurrency": "ILV",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740031500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IMX-USD",
+    "baseCurrency": "IMX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744266000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IOST-USD",
+    "baseCurrency": "IOST",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742367300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IOTA-USD",
+    "baseCurrency": "IOTA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742367600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IP-USD",
+    "baseCurrency": "IP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740033900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JOE-USD",
+    "baseCurrency": "JOE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741847400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JST-USD",
+    "baseCurrency": "JST",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738919700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JTO-USD",
+    "baseCurrency": "JTO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743661800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JUP-USD",
+    "baseCurrency": "JUP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743662100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KAITO-USD",
+    "baseCurrency": "KAITO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740108900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KAIA-USD",
+    "baseCurrency": "KAIA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742368200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KDA-USD",
+    "baseCurrency": "KDA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742368500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KMNO-USD",
+    "baseCurrency": "KMNO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750249800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KNC-USD",
+    "baseCurrency": "KNC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743055800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KSM-USD",
+    "baseCurrency": "KSM",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743056100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LAT-USD",
+    "baseCurrency": "LAT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742369400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LAYER-USD",
+    "baseCurrency": "LAYER",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1745582400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LDO-USD",
+    "baseCurrency": "LDO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743662400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LEO-USD",
+    "baseCurrency": "LEO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741849800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LINK-USD",
+    "baseCurrency": "LINK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736910000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LOOKS-USD",
+    "baseCurrency": "LOOKS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742369700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LPT-USD",
+    "baseCurrency": "LPT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744266300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LQTY-USD",
+    "baseCurrency": "LQTY",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744266600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LRC-USD",
+    "baseCurrency": "LRC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743662700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LSK-USD",
+    "baseCurrency": "LSK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742796300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LTC-USD",
+    "baseCurrency": "LTC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736910300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LUNA-USD",
+    "baseCurrency": "LUNA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742796900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MAGIC-USD",
+    "baseCurrency": "MAGIC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742450400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MAJOR-USD",
+    "baseCurrency": "MAJOR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742450700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MANA-USD",
+    "baseCurrency": "MANA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744266900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MASK-USD",
+    "baseCurrency": "MASK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744267200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ME-USD",
+    "baseCurrency": "ME",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737974400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MEME-USD",
+    "baseCurrency": "MEME",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738921500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MEMEFI-USD",
+    "baseCurrency": "MEMEFI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742451000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MENGO-USD",
+    "baseCurrency": "MENGO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740031200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MERL-USD",
+    "baseCurrency": "MERL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737973800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "METIS-USD",
+    "baseCurrency": "METIS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742451300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MEW-USD",
+    "baseCurrency": "MEW",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737974100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MINA-USD",
+    "baseCurrency": "MINA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744267500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MKR-USD",
+    "baseCurrency": "MKR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736910600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MLN-USD",
+    "baseCurrency": "MLN",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741846200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MOODENG-USD",
+    "baseCurrency": "MOODENG",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743663000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MORPHO-USD",
+    "baseCurrency": "MORPHO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743663300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MOVR-USD",
+    "baseCurrency": "MOVR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743056400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MOVE-USD",
+    "baseCurrency": "MOVE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743663600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NAVX-USD",
+    "baseCurrency": "NAVX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743046200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NC-USD",
+    "baseCurrency": "NC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740033300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NEAR-USD",
+    "baseCurrency": "NEAR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743663900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NEIRO-USD",
+    "baseCurrency": "NEIRO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743664200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NEO-USD",
+    "baseCurrency": "NEO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742451900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NMR-USD",
+    "baseCurrency": "NMR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743056700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NOT-USD",
+    "baseCurrency": "NOT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743493500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OAS-USD",
+    "baseCurrency": "OAS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742452200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OL-USD",
+    "baseCurrency": "OL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737972300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OM-USD",
+    "baseCurrency": "OM",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742452500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OMI-USD",
+    "baseCurrency": "OMI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742452800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ONDO-USD",
+    "baseCurrency": "ONDO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743664500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ONE-USD",
+    "baseCurrency": "ONE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742453100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ONT-USD",
+    "baseCurrency": "ONT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742453400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OP-USD",
+    "baseCurrency": "OP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736910900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ORBS-USD",
+    "baseCurrency": "ORBS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742453700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ORDI-USD",
+    "baseCurrency": "ORDI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742454000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PARTI-USD",
+    "baseCurrency": "PARTI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744273800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PENGU-USD",
+    "baseCurrency": "PENGU",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737972600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PENDLE-USD",
+    "baseCurrency": "PENDLE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743057000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PEOPLE-USD",
+    "baseCurrency": "PEOPLE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742454300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PEPE-USD",
+    "baseCurrency": "PEPE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736911200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PERP-USD",
+    "baseCurrency": "PERP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741846800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PHA-USD",
+    "baseCurrency": "PHA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743057300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PIXEL-USD",
+    "baseCurrency": "PIXEL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738922400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PNUT-USD",
+    "baseCurrency": "PNUT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743664800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "POL-USD",
+    "baseCurrency": "POL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742454600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "POLYDOGE-USD",
+    "baseCurrency": "POLYDOGE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742454900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "POR-USD",
+    "baseCurrency": "POR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741851000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PRCL-USD",
+    "baseCurrency": "PRCL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737972000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PSTAKE-USD",
+    "baseCurrency": "PSTAKE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743057600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PUMP-USD",
+    "baseCurrency": "PUMP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1752829200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PYTH-USD",
+    "baseCurrency": "PYTH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743665100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "QTUM-USD",
+    "baseCurrency": "QTUM",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744267800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RACA-USD",
+    "baseCurrency": "RACA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742455500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RAY-USD",
+    "baseCurrency": "RAY",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737971100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RENDER-USD",
+    "baseCurrency": "RENDER",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740033600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RESOLV-USD",
+    "baseCurrency": "RESOLV",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1749571200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RIO-USD",
+    "baseCurrency": "RIO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742455800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RON-USD",
+    "baseCurrency": "RON",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742456100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RPL-USD",
+    "baseCurrency": "RPL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743057900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RSR-USD",
+    "baseCurrency": "RSR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743058200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RSS3-USD",
+    "baseCurrency": "RSS3",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742536800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RVN-USD",
+    "baseCurrency": "RVN",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742537100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "S-USD",
+    "baseCurrency": "S",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738035000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAFE-USD",
+    "baseCurrency": "SAFE",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738920000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAND-USD",
+    "baseCurrency": "SAND",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744092000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SATS-USD",
+    "baseCurrency": "SATS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742537400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SC-USD",
+    "baseCurrency": "SC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743058800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SCR-USD",
+    "baseCurrency": "SCR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742537700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SD-USD",
+    "baseCurrency": "SD",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742538000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SHIB-USD",
+    "baseCurrency": "SHIB",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736911500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SKL-USD",
+    "baseCurrency": "SKL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742538300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SLP-USD",
+    "baseCurrency": "SLP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742538600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SNT-USD",
+    "baseCurrency": "SNT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741848300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SNX-USD",
+    "baseCurrency": "SNX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744268100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SONIC-USD",
+    "baseCurrency": "SONIC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740032400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOPH-USD",
+    "baseCurrency": "SOPH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750248000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SPURS-USD",
+    "baseCurrency": "SPURS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742538900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SSV-USD",
+    "baseCurrency": "SSV",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737971400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STETH-USD",
+    "baseCurrency": "STETH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742539200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STORJ-USD",
+    "baseCurrency": "STORJ",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744268400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STRK-USD",
+    "baseCurrency": "STRK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744092300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STX-USD",
+    "baseCurrency": "STX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744092600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SUI-USD",
+    "baseCurrency": "SUI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736911800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SUSHI-USD",
+    "baseCurrency": "SUSHI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744268700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SWEAT-USD",
+    "baseCurrency": "SWEAT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742539500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SWFTC-USD",
+    "baseCurrency": "SWFTC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742539800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "T-USD",
+    "baseCurrency": "T",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741850100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "THETA-USD",
+    "baseCurrency": "THETA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742540100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TIA-USD",
+    "baseCurrency": "TIA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744092900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TNSR-USD",
+    "baseCurrency": "TNSR",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743059100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRA-USD",
+    "baseCurrency": "TRA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1741848900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRB-USD",
+    "baseCurrency": "TRB",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742540400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRUMP-USD",
+    "baseCurrency": "TRUMP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737309000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRX-USD",
+    "baseCurrency": "TRX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744093500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TURBO-USD",
+    "baseCurrency": "TURBO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744093800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ULTI-USD",
+    "baseCurrency": "ULTI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737971700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "UMA-USD",
+    "baseCurrency": "UMA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743059400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "UNI-USD",
+    "baseCurrency": "UNI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736912100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDT-USD",
+    "baseCurrency": "USDT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733452200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "UXLINK-USD",
+    "baseCurrency": "UXLINK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740032100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "VELODROME-USD",
+    "baseCurrency": "VELODROME",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738922700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "VELO-USD",
+    "baseCurrency": "VELO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742540700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "VRA-USD",
+    "baseCurrency": "VRA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742541000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "W-USD",
+    "baseCurrency": "W",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742541300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WAXP-USD",
+    "baseCurrency": "WAXP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742541600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WBTC-USD",
+    "baseCurrency": "WBTC",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744094100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WCT-USD",
+    "baseCurrency": "WCT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744722000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WIF-USD",
+    "baseCurrency": "WIF",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744094400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WIN-USD",
+    "baseCurrency": "WIN",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738921800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WLD-USD",
+    "baseCurrency": "WLD",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737972900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XCH-USD",
+    "baseCurrency": "XCH",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742541900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XLM-USD",
+    "baseCurrency": "XLM",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744094700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XTZ-USD",
+    "baseCurrency": "XTZ",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743059700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "YFI-USD",
+    "baseCurrency": "YFI",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743060000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "YGG-USD",
+    "baseCurrency": "YGG",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744095000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZBCN-USD",
+    "baseCurrency": "ZBCN",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742542200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZENT-USD",
+    "baseCurrency": "ZENT",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744095300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZETA-USD",
+    "baseCurrency": "ZETA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738920600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZEUS-USD",
+    "baseCurrency": "ZEUS",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744095600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZIL-USD",
+    "baseCurrency": "ZIL",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742542500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZK-USD",
+    "baseCurrency": "ZK",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744095900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZKJ-USD",
+    "baseCurrency": "ZKJ",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737974700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZRO-USD",
+    "baseCurrency": "ZRO",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744096200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZRX-USD",
+    "baseCurrency": "ZRX",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743060300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTC-TRY",
+    "baseCurrency": "BTC",
+    "quoteCurrency": "TRY",
+    "state": "live",
+    "category": "1",
+    "listTime": "1705633200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-TRY",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "TRY",
+    "state": "live",
+    "category": "1",
+    "listTime": "1705635000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-TRY",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "TRY",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733798700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XRP-TRY",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "TRY",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733799000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PI-TRY",
+    "baseCurrency": "PI",
+    "quoteCurrency": "TRY",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740061800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRUMP-TRY",
+    "baseCurrency": "TRUMP",
+    "quoteCurrency": "TRY",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737455400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDT-TRY",
+    "baseCurrency": "USDT",
+    "quoteCurrency": "TRY",
+    "state": "live",
+    "category": "1",
+    "listTime": "1698894300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTC-USDT",
+    "baseCurrency": "BTC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-USDT",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OKB-USDT",
+    "baseCurrency": "OKB",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-USDT",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TON-USDT",
+    "baseCurrency": "TON",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1651203490000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOGE-USDT",
+    "baseCurrency": "DOGE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XRP-USDT",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SPK-USDT",
+    "baseCurrency": "SPK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750150800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PI-USDT",
+    "baseCurrency": "PI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740034800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAHARA-USDT",
+    "baseCurrency": "SAHARA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750935600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "1INCH-USDT",
+    "baseCurrency": "1INCH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "A-USDT",
+    "baseCurrency": "A",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748509200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AAVE-USDT",
+    "baseCurrency": "AAVE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ACA-USDT",
+    "baseCurrency": "ACA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1643084782000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ACE-USDT",
+    "baseCurrency": "ACE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1702879200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ACH-USDT",
+    "baseCurrency": "ACH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1682071200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ACT-USDT",
+    "baseCurrency": "ACT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731574800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ADA-USDT",
+    "baseCurrency": "ADA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AERGO-USDT",
+    "baseCurrency": "AERGO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AEVO-USDT",
+    "baseCurrency": "AEVO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710324000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AGLD-USDT",
+    "baseCurrency": "AGLD",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1630650741000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AIDOGE-USDT",
+    "baseCurrency": "AIDOGE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1682424000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AIXBT-USDT",
+    "baseCurrency": "AIXBT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736942400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ALGO-USDT",
+    "baseCurrency": "ALGO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ALPHA-USDT",
+    "baseCurrency": "ALPHA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1614831716000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ANIME-USDT",
+    "baseCurrency": "ANIME",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737637200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "APE-USDT",
+    "baseCurrency": "APE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1647508491000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "API3-USDT",
+    "baseCurrency": "API3",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "APT-USDT",
+    "baseCurrency": "APT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1666086764000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AR-USDT",
+    "baseCurrency": "AR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1640313874000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARB-USDT",
+    "baseCurrency": "ARB",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1679578800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARG-USDT",
+    "baseCurrency": "ARG",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1663915404000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARKM-USDT",
+    "baseCurrency": "ARKM",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723698000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ASTR-USDT",
+    "baseCurrency": "ASTR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1642405474000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ATH-USDT",
+    "baseCurrency": "ATH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1718186400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ATOM-USDT",
+    "baseCurrency": "ATOM",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AUCTION-USDT",
+    "baseCurrency": "AUCTION",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1617784500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AVAX-USDT",
+    "baseCurrency": "AVAX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AXS-USDT",
+    "baseCurrency": "AXS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1627368385000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BABYDOGE-USDT",
+    "baseCurrency": "BABYDOGE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1628580116000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BABY-USDT",
+    "baseCurrency": "BABY",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744276500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BADGER-USDT",
+    "baseCurrency": "BADGER",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BAL-USDT",
+    "baseCurrency": "BAL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BAND-USDT",
+    "baseCurrency": "BAND",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BANANA-USDT",
+    "baseCurrency": "BANANA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1729242000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BAT-USDT",
+    "baseCurrency": "BAT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BCH-USDT",
+    "baseCurrency": "BCH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BERA-USDT",
+    "baseCurrency": "BERA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1738843200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BETH-USDT",
+    "baseCurrency": "BETH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BICO-USDT",
+    "baseCurrency": "BICO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1638349468000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BIGTIME-USDT",
+    "baseCurrency": "BIGTIME",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1696989600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BIO-USDT",
+    "baseCurrency": "BIO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1735895700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BLUR-USDT",
+    "baseCurrency": "BLUR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1676355947000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BNB-USDT",
+    "baseCurrency": "BNB",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1671540483000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BNT-USDT",
+    "baseCurrency": "BNT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BOME-USDT",
+    "baseCurrency": "BOME",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723712400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BONK-USDT",
+    "baseCurrency": "BONK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1704693600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTT-USDT",
+    "baseCurrency": "BTT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1643261855000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CATI-USDT",
+    "baseCurrency": "CATI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1726822800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CAT-USDT",
+    "baseCurrency": "CAT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1729850400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CELO-USDT",
+    "baseCurrency": "CELO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CELR-USDT",
+    "baseCurrency": "CELR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1617007316000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CETUS-USDT",
+    "baseCurrency": "CETUS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1683714600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CFG-USDT",
+    "baseCurrency": "CFG",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1626249309000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CFX-USDT",
+    "baseCurrency": "CFX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1614752416000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CHZ-USDT",
+    "baseCurrency": "CHZ",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1614752416000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CITY-USDT",
+    "baseCurrency": "CITY",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1664176180000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CLV-USDT",
+    "baseCurrency": "CLV",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1627531523000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "COMP-USDT",
+    "baseCurrency": "COMP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CORE-USDT",
+    "baseCurrency": "CORE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1675836683000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CRO-USDT",
+    "baseCurrency": "CRO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CRV-USDT",
+    "baseCurrency": "CRV",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611285056000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CSPR-USDT",
+    "baseCurrency": "CSPR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620716190000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CTC-USDT",
+    "baseCurrency": "CTC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CVC-USDT",
+    "baseCurrency": "CVC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CVX-USDT",
+    "baseCurrency": "CVX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1637907763000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CXT-USDT",
+    "baseCurrency": "CXT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1721030400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DAI-USDT",
+    "baseCurrency": "DAI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DAO-USDT",
+    "baseCurrency": "DAO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1618369686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DEGEN-USDT",
+    "baseCurrency": "DEGEN",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1721725200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DEP-USDT",
+    "baseCurrency": "DEP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DGB-USDT",
+    "baseCurrency": "DGB",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOGS-USDT",
+    "baseCurrency": "DOGS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1724670000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DORA-USDT",
+    "baseCurrency": "DORA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1695103200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOT-USDT",
+    "baseCurrency": "DOT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DUCK-USDT",
+    "baseCurrency": "DUCK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737018000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DYDX-USDT",
+    "baseCurrency": "DYDX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1631085490000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "EGLD-USDT",
+    "baseCurrency": "EGLD",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "EIGEN-USDT",
+    "baseCurrency": "EIGEN",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727758800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ELF-USDT",
+    "baseCurrency": "ELF",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ELON-USDT",
+    "baseCurrency": "ELON",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1635145906000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ENJ-USDT",
+    "baseCurrency": "ENJ",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1696906800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ENS-USDT",
+    "baseCurrency": "ENS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1636381181000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ERN-USDT",
+    "baseCurrency": "ERN",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1629697048000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETC-USDT",
+    "baseCurrency": "ETC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETHW-USDT",
+    "baseCurrency": "ETHW",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1663258590000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETHFI-USDT",
+    "baseCurrency": "ETHFI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1710763800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FET-USDT",
+    "baseCurrency": "FET",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700820000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FIL-USDT",
+    "baseCurrency": "FIL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLM-USDT",
+    "baseCurrency": "FLM",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLOW-USDT",
+    "baseCurrency": "FLOW",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1614062136000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLOKI-USDT",
+    "baseCurrency": "FLOKI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1671172032000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLR-USDT",
+    "baseCurrency": "FLR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1673256143000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLUID-USDT",
+    "baseCurrency": "FLUID",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1743066000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FORTH-USDT",
+    "baseCurrency": "FORTH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1619064876000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FOXY-USDT",
+    "baseCurrency": "FOXY",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1712908800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FXS-USDT",
+    "baseCurrency": "FXS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1688637600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "G-USDT",
+    "baseCurrency": "G",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1721973600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GALA-USDT",
+    "baseCurrency": "GALA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1632295098000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GALFT-USDT",
+    "baseCurrency": "GALFT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1655962391000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GAS-USDT",
+    "baseCurrency": "GAS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GEAR-USDT",
+    "baseCurrency": "GEAR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1671765975000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GHST-USDT",
+    "baseCurrency": "GHST",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GLM-USDT",
+    "baseCurrency": "GLM",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1613734874000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GLMR-USDT",
+    "baseCurrency": "GLMR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1641883197000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GMT-USDT",
+    "baseCurrency": "GMT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1648781939000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GMX-USDT",
+    "baseCurrency": "GMX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1672899912000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GOAT-USDT",
+    "baseCurrency": "GOAT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733994000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GODS-USDT",
+    "baseCurrency": "GODS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1635492759000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GRT-USDT",
+    "baseCurrency": "GRT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "HBAR-USDT",
+    "baseCurrency": "HBAR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "HMSTR-USDT",
+    "baseCurrency": "HMSTR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727348400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "HUMA-USDT",
+    "baseCurrency": "HUMA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748260800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ICE-USDT",
+    "baseCurrency": "ICE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1705658400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ICP-USDT",
+    "baseCurrency": "ICP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620635244000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ICX-USDT",
+    "baseCurrency": "ICX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ID-USDT",
+    "baseCurrency": "ID",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1681984800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ILV-USDT",
+    "baseCurrency": "ILV",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1630978003000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IMX-USDT",
+    "baseCurrency": "IMX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1636101372000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "INJ-USDT",
+    "baseCurrency": "INJ",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1701338400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IOST-USDT",
+    "baseCurrency": "IOST",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IOTA-USDT",
+    "baseCurrency": "IOTA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "IP-USDT",
+    "baseCurrency": "IP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1739433600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "J-USDT",
+    "baseCurrency": "J",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737536400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JITOSOL-USDT",
+    "baseCurrency": "JITOSOL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1746774000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JOE-USDT",
+    "baseCurrency": "JOE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1642045755000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JST-USDT",
+    "baseCurrency": "JST",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JTO-USDT",
+    "baseCurrency": "JTO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1704693600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JUP-USDT",
+    "baseCurrency": "JUP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1706713800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KAIA-USDT",
+    "baseCurrency": "KAIA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1730358000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KAITO-USDT",
+    "baseCurrency": "KAITO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1740052800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KDA-USDT",
+    "baseCurrency": "KDA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1641352150000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KMNO-USDT",
+    "baseCurrency": "KMNO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748570400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KNC-USDT",
+    "baseCurrency": "KNC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "KSM-USDT",
+    "baseCurrency": "KSM",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LAT-USDT",
+    "baseCurrency": "LAT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620788780000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LAYER-USDT",
+    "baseCurrency": "LAYER",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1745571600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LDO-USDT",
+    "baseCurrency": "LDO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1662085287000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LEO-USDT",
+    "baseCurrency": "LEO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LINK-USDT",
+    "baseCurrency": "LINK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LOOKS-USDT",
+    "baseCurrency": "LOOKS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1642063043000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LPT-USDT",
+    "baseCurrency": "LPT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1617346935000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LQTY-USDT",
+    "baseCurrency": "LQTY",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1682071200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LRC-USDT",
+    "baseCurrency": "LRC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LSK-USDT",
+    "baseCurrency": "LSK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LTC-USDT",
+    "baseCurrency": "LTC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LUNC-USDT",
+    "baseCurrency": "LUNC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653635753000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LUNA-USDT",
+    "baseCurrency": "LUNA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653732068000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MAGIC-USDT",
+    "baseCurrency": "MAGIC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1644820802000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MAJOR-USDT",
+    "baseCurrency": "MAJOR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732791600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MANA-USDT",
+    "baseCurrency": "MANA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MASK-USDT",
+    "baseCurrency": "MASK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1614182650000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ME-USDT",
+    "baseCurrency": "ME",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733837400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MEME-USDT",
+    "baseCurrency": "MEME",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1699000200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MEMEFI-USDT",
+    "baseCurrency": "MEMEFI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732276800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MENGO-USDT",
+    "baseCurrency": "MENGO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1663915563000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MERL-USDT",
+    "baseCurrency": "MERL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713520800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "METIS-USDT",
+    "baseCurrency": "METIS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1644471246000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MEW-USDT",
+    "baseCurrency": "MEW",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713168000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MINA-USDT",
+    "baseCurrency": "MINA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1622459401000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MKR-USDT",
+    "baseCurrency": "MKR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MLN-USDT",
+    "baseCurrency": "MLN",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MOODENG-USDT",
+    "baseCurrency": "MOODENG",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731668400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MORPHO-USDT",
+    "baseCurrency": "MORPHO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732179900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MOVR-USDT",
+    "baseCurrency": "MOVR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1638945404000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MOVE-USDT",
+    "baseCurrency": "MOVE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733742000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NAVX-USDT",
+    "baseCurrency": "NAVX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742893200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NC-USDT",
+    "baseCurrency": "NC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737104400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NEAR-USDT",
+    "baseCurrency": "NEAR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NEIRO-USDT",
+    "baseCurrency": "NEIRO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1729587600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NEO-USDT",
+    "baseCurrency": "NEO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NFT-USDT",
+    "baseCurrency": "NFT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1636612473000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NMR-USDT",
+    "baseCurrency": "NMR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NOT-USDT",
+    "baseCurrency": "NOT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715860800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OAS-USDT",
+    "baseCurrency": "OAS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1670822719000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OKSOL-USDT",
+    "baseCurrency": "OKSOL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733900400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OKT-USDT",
+    "baseCurrency": "OKT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OL-USDT",
+    "baseCurrency": "OL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732017600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OM-USDT",
+    "baseCurrency": "OM",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OMI-USDT",
+    "baseCurrency": "OMI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1627880033000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ONDO-USDT",
+    "baseCurrency": "ONDO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1722240000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ONE-USDT",
+    "baseCurrency": "ONE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1641438952000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ONT-USDT",
+    "baseCurrency": "ONT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OP-USDT",
+    "baseCurrency": "OP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1654009041000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ORBS-USDT",
+    "baseCurrency": "ORBS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ORDI-USDT",
+    "baseCurrency": "ORDI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1684584000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PARTI-USDT",
+    "baseCurrency": "PARTI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1742904000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PENDLE-USDT",
+    "baseCurrency": "PENDLE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727416800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PENGU-USDT",
+    "baseCurrency": "PENGU",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1734440400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PEOPLE-USDT",
+    "baseCurrency": "PEOPLE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1637907325000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PEPE-USDT",
+    "baseCurrency": "PEPE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1682931600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PERP-USDT",
+    "baseCurrency": "PERP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1615365792000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PHA-USDT",
+    "baseCurrency": "PHA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PIXEL-USDT",
+    "baseCurrency": "PIXEL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723705200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PNUT-USDT",
+    "baseCurrency": "PNUT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731318000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "POLYDOGE-USDT",
+    "baseCurrency": "POLYDOGE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1636361107000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "POL-USDT",
+    "baseCurrency": "POL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1725451200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "POR-USDT",
+    "baseCurrency": "POR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1663915262000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PRCL-USDT",
+    "baseCurrency": "PRCL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713272400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PROMPT-USDT",
+    "baseCurrency": "PROMPT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744286400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PSTAKE-USDT",
+    "baseCurrency": "PSTAKE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1645689289000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PUMP-USDT",
+    "baseCurrency": "PUMP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1752818400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PYTH-USDT",
+    "baseCurrency": "PYTH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1700490600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PYUSD-USDT",
+    "baseCurrency": "PYUSD",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1727953200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "QTUM-USDT",
+    "baseCurrency": "QTUM",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RACA-USDT",
+    "baseCurrency": "RACA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1638857466000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RAY-USDT",
+    "baseCurrency": "RAY",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1639723491000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RDNT-USDT",
+    "baseCurrency": "RDNT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1679385600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RENDER-USDT",
+    "baseCurrency": "RENDER",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1721026800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RESOLV-USDT",
+    "baseCurrency": "RESOLV",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1749560400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RIO-USDT",
+    "baseCurrency": "RIO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RON-USDT",
+    "baseCurrency": "RON",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1643287644000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RPL-USDT",
+    "baseCurrency": "RPL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1677664800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RSR-USDT",
+    "baseCurrency": "RSR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RSS3-USDT",
+    "baseCurrency": "RSS3",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1644810127000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RUNECOIN-USDT",
+    "baseCurrency": "RUNECOIN",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1714471200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RVN-USDT",
+    "baseCurrency": "RVN",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "S-USDT",
+    "baseCurrency": "S",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737439200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAFE-USDT",
+    "baseCurrency": "SAFE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713857400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAND-USDT",
+    "baseCurrency": "SAND",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1616054895000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SATS-USDT",
+    "baseCurrency": "SATS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1702886400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SC-USDT",
+    "baseCurrency": "SC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SCR-USDT",
+    "baseCurrency": "SCR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1730703600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SD-USDT",
+    "baseCurrency": "SD",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1647338573000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SHIB-USDT",
+    "baseCurrency": "SHIB",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620446728000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SKL-USDT",
+    "baseCurrency": "SKL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1617007316000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SLERF-USDT",
+    "baseCurrency": "SLERF",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1721721600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SLP-USDT",
+    "baseCurrency": "SLP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1629354310000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SNT-USDT",
+    "baseCurrency": "SNT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SNX-USDT",
+    "baseCurrency": "SNX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SONIC-USDT",
+    "baseCurrency": "SONIC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1736247600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOPH-USDT",
+    "baseCurrency": "SOPH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1748433600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SPURS-USDT",
+    "baseCurrency": "SPURS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1698314400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SSV-USDT",
+    "baseCurrency": "SSV",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1677664800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STETH-USDT",
+    "baseCurrency": "STETH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1689674400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STORJ-USDT",
+    "baseCurrency": "STORJ",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STRK-USDT",
+    "baseCurrency": "STRK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1708432800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STX-USDT",
+    "baseCurrency": "STX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1614853497000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SUI-USDT",
+    "baseCurrency": "SUI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1683114000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SUSHI-USDT",
+    "baseCurrency": "SUSHI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SWEAT-USDT",
+    "baseCurrency": "SWEAT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1663051473000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SWFTC-USDT",
+    "baseCurrency": "SWFTC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "T-USDT",
+    "baseCurrency": "T",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1648699657000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "THETA-USDT",
+    "baseCurrency": "THETA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TIA-USDT",
+    "baseCurrency": "TIA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1698775200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TNSR-USDT",
+    "baseCurrency": "TNSR",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1712589300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRA-USDT",
+    "baseCurrency": "TRA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1617963219000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRB-USDT",
+    "baseCurrency": "TRB",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRUMP-USDT",
+    "baseCurrency": "TRUMP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737259200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRX-USDT",
+    "baseCurrency": "TRX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TURBO-USDT",
+    "baseCurrency": "TURBO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1684742400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ULTI-USDT",
+    "baseCurrency": "ULTI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1717668000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "UMA-USDT",
+    "baseCurrency": "UMA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "UNI-USDT",
+    "baseCurrency": "UNI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDC-USDT",
+    "baseCurrency": "USDC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USDG-USDT",
+    "baseCurrency": "USDG",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1749643200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "USTC-USDT",
+    "baseCurrency": "USTC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653637616000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "UXLINK-USDT",
+    "baseCurrency": "UXLINK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1721289600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "VELO-USDT",
+    "baseCurrency": "VELO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1615192253000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "VELODROME-USDT",
+    "baseCurrency": "VELODROME",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1679040000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "VINE-USDT",
+    "baseCurrency": "VINE",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737882000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "VRA-USDT",
+    "baseCurrency": "VRA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1619591733000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "W-USDT",
+    "baseCurrency": "W",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1712145600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WAXP-USDT",
+    "baseCurrency": "WAXP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1644555324000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WBTC-USDT",
+    "baseCurrency": "WBTC",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WCT-USDT",
+    "baseCurrency": "WCT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1744711200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WIF-USDT",
+    "baseCurrency": "WIF",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713171600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WIN-USDT",
+    "baseCurrency": "WIN",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1638426346000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WLD-USDT",
+    "baseCurrency": "WLD",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1690190400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WOO-USDT",
+    "baseCurrency": "WOO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1639549699000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XAUT-USDT",
+    "baseCurrency": "XAUT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1658200770000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XCH-USDT",
+    "baseCurrency": "XCH",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1620050929000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XLM-USDT",
+    "baseCurrency": "XLM",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XTZ-USDT",
+    "baseCurrency": "XTZ",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "YFI-USDT",
+    "baseCurrency": "YFI",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "YGG-USDT",
+    "baseCurrency": "YGG",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1627468177000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZBCN-USDT",
+    "baseCurrency": "ZBCN",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1713254400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZENT-USDT",
+    "baseCurrency": "ZENT",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1714975200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZETA-USDT",
+    "baseCurrency": "ZETA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1706756400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZEUS-USDT",
+    "baseCurrency": "ZEUS",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1712239200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZIL-USDT",
+    "baseCurrency": "ZIL",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZK-USDT",
+    "baseCurrency": "ZK",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1718697600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZKJ-USDT",
+    "baseCurrency": "ZKJ",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1718607600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZRO-USDT",
+    "baseCurrency": "ZRO",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1718884800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZRX-USDT",
+    "baseCurrency": "ZRX",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BTC-USDC",
+    "baseCurrency": "BTC",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-USDC",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OKB-USDC",
+    "baseCurrency": "OKB",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-USDC",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653285156000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TON-USDC",
+    "baseCurrency": "TON",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1656387593000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOGE-USDC",
+    "baseCurrency": "DOGE",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653285260000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XRP-USDC",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "1INCH-USDC",
+    "baseCurrency": "1INCH",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1655787020000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AAVE-USDC",
+    "baseCurrency": "AAVE",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1654583929000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ADA-USDC",
+    "baseCurrency": "ADA",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653286080000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AEVO-USDC",
+    "baseCurrency": "AEVO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1728896400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AGLD-USDC",
+    "baseCurrency": "AGLD",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1658815263000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ALGO-USDC",
+    "baseCurrency": "ALGO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1655119932000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "APE-USDC",
+    "baseCurrency": "APE",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653285819000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "APT-USDC",
+    "baseCurrency": "APT",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1666086889000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARB-USDC",
+    "baseCurrency": "ARB",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1716188400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ARKM-USDC",
+    "baseCurrency": "ARKM",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731922500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ATH-USDC",
+    "baseCurrency": "ATH",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1728896700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ATOM-USDC",
+    "baseCurrency": "ATOM",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653974613000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "AVAX-USDC",
+    "baseCurrency": "AVAX",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653285982000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BCH-USDC",
+    "baseCurrency": "BCH",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BLUR-USDC",
+    "baseCurrency": "BLUR",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1676356333000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BONK-USDC",
+    "baseCurrency": "BONK",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1730190000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CATI-USDC",
+    "baseCurrency": "CATI",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1728897000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CHZ-USDC",
+    "baseCurrency": "CHZ",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1655785198000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "COMP-USDC",
+    "baseCurrency": "COMP",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1656386558000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CRO-USDC",
+    "baseCurrency": "CRO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1655784892000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "CRV-USDC",
+    "baseCurrency": "CRV",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653974689000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DAI-USDC",
+    "baseCurrency": "DAI",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1722235500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOGS-USDC",
+    "baseCurrency": "DOGS",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1726812300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DOT-USDC",
+    "baseCurrency": "DOT",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653285472000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "DYDX-USDC",
+    "baseCurrency": "DYDX",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1655785076000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "EIGEN-USDC",
+    "baseCurrency": "EIGEN",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1729155600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ENS-USDC",
+    "baseCurrency": "ENS",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1720666800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETC-USDC",
+    "baseCurrency": "ETC",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1660022233000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETHW-USDC",
+    "baseCurrency": "ETHW",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1663296038000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETHFI-USDC",
+    "baseCurrency": "ETHFI",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1728897300000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FIL-USDC",
+    "baseCurrency": "FIL",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653285381000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "FLR-USDC",
+    "baseCurrency": "FLR",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1673256144000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GALA-USDC",
+    "baseCurrency": "GALA",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1654584967000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "GRT-USDC",
+    "baseCurrency": "GRT",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1655120006000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "HBAR-USDC",
+    "baseCurrency": "HBAR",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1660022454000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ICP-USDC",
+    "baseCurrency": "ICP",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1654584395000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JTO-USDC",
+    "baseCurrency": "JTO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715331600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "JUP-USDC",
+    "baseCurrency": "JUP",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1728897600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LDO-USDC",
+    "baseCurrency": "LDO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1720667100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LINK-USDC",
+    "baseCurrency": "LINK",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1654583999000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LRC-USDC",
+    "baseCurrency": "LRC",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1654584131000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LTC-USDC",
+    "baseCurrency": "LTC",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LUNC-USDC",
+    "baseCurrency": "LUNC",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653637053000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LUNA-USDC",
+    "baseCurrency": "LUNA",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653732118000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MERL-USDC",
+    "baseCurrency": "MERL",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1717405200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MKR-USDC",
+    "baseCurrency": "MKR",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1658815781000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MOODENG-USDC",
+    "baseCurrency": "MOODENG",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731918900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MORPHO-USDC",
+    "baseCurrency": "MORPHO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732786500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "MOVE-USDC",
+    "baseCurrency": "MOVE",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733754600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NEAR-USDC",
+    "baseCurrency": "NEAR",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653285574000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NEIRO-USDC",
+    "baseCurrency": "NEIRO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1730189700000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "NOT-USDC",
+    "baseCurrency": "NOT",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1726812000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OKT-USDC",
+    "baseCurrency": "OKT",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1656387780000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ONDO-USDC",
+    "baseCurrency": "ONDO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1724915100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OP-USDC",
+    "baseCurrency": "OP",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1654009129000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PEPE-USDC",
+    "baseCurrency": "PEPE",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715670000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PNUT-USDC",
+    "baseCurrency": "PNUT",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1731918600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "PYTH-USDC",
+    "baseCurrency": "PYTH",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1720667400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "RDNT-USDC",
+    "baseCurrency": "RDNT",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1679385600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAND-USDC",
+    "baseCurrency": "SAND",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653974760000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SHIB-USDC",
+    "baseCurrency": "SHIB",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653286153000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STRK-USDC",
+    "baseCurrency": "STRK",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1712811000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STX-USDC",
+    "baseCurrency": "STX",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1660022629000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SUI-USDC",
+    "baseCurrency": "SUI",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715332200000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TIA-USDC",
+    "baseCurrency": "TIA",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1720668000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TRX-USDC",
+    "baseCurrency": "TRX",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "TURBO-USDC",
+    "baseCurrency": "TURBO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1729156500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "UNI-USDC",
+    "baseCurrency": "UNI",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1653974977000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WBTC-USDC",
+    "baseCurrency": "WBTC",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1723100100000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WIF-USDC",
+    "baseCurrency": "WIF",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1715332800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WLD-USDC",
+    "baseCurrency": "WLD",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1717146000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "XLM-USDC",
+    "baseCurrency": "XLM",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1655785301000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "YGG-USDC",
+    "baseCurrency": "YGG",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1658814984000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZENT-USDC",
+    "baseCurrency": "ZENT",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1719910500000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZETA-USDC",
+    "baseCurrency": "ZETA",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1728897900000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZEUS-USDC",
+    "baseCurrency": "ZEUS",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1732785600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZK-USDC",
+    "baseCurrency": "ZK",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1722675000000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ZRO-USDC",
+    "baseCurrency": "ZRO",
+    "quoteCurrency": "USDC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1724914800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "ETH-BTC",
+    "baseCurrency": "ETH",
+    "quoteCurrency": "BTC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OKB-BTC",
+    "baseCurrency": "OKB",
+    "quoteCurrency": "BTC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-BTC",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "BTC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BCH-BTC",
+    "baseCurrency": "BCH",
+    "quoteCurrency": "BTC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "LTC-BTC",
+    "baseCurrency": "LTC",
+    "quoteCurrency": "BTC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STX-BTC",
+    "baseCurrency": "STX",
+    "quoteCurrency": "BTC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1614853497000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "WBTC-BTC",
+    "baseCurrency": "WBTC",
+    "quoteCurrency": "BTC",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SOL-ETH",
+    "baseCurrency": "SOL",
+    "quoteCurrency": "ETH",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "BETH-ETH",
+    "baseCurrency": "BETH",
+    "quoteCurrency": "ETH",
+    "state": "live",
+    "category": "1",
+    "listTime": "1611907686000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "STETH-ETH",
+    "baseCurrency": "STETH",
+    "quoteCurrency": "ETH",
+    "state": "live",
+    "category": "1",
+    "listTime": "1689674400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "OKSOL-SOL",
+    "baseCurrency": "OKSOL",
+    "quoteCurrency": "SOL",
+    "state": "live",
+    "category": "1",
+    "listTime": "1733902200000",
+    "exchange": "okx",
+    "type": "spot"
+  }
+]

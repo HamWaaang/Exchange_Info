@@ -1,0 +1,2004 @@
+{
+  "tickers": [
+    {
+      "product_id": "KNC-USD",
+      "base_currency_id": "KNC",
+      "quote_currency_id": "USD",
+      "price": "0.4353",
+      "volume_24h": "510224.4",
+      "open_24h": "0.4398",
+      "high_24h": "0.45",
+      "low_24h": "0.4335"
+    },
+    {
+      "product_id": "WIF-USD",
+      "base_currency_id": "WIF",
+      "quote_currency_id": "USD",
+      "price": "1.203",
+      "volume_24h": "24369609.54",
+      "open_24h": "1.172",
+      "high_24h": "1.31",
+      "low_24h": "1.15"
+    },
+    {
+      "product_id": "SNX-GBP",
+      "base_currency_id": "SNX",
+      "quote_currency_id": "GBP",
+      "price": "0.508",
+      "volume_24h": "48702.902",
+      "open_24h": "0.528",
+      "high_24h": "0.545",
+      "low_24h": "0.508"
+    },
+    {
+      "product_id": "BERA-USD",
+      "base_currency_id": "BERA",
+      "quote_currency_id": "USD",
+      "price": "2.444",
+      "volume_24h": "1100638.2",
+      "open_24h": "2.37",
+      "high_24h": "2.539",
+      "low_24h": "2.326"
+    },
+    {
+      "product_id": "SWELL-USD",
+      "base_currency_id": "SWELL",
+      "quote_currency_id": "USD",
+      "price": "0.01636",
+      "volume_24h": "240436846",
+      "open_24h": "0.0147",
+      "high_24h": "0.01687",
+      "low_24h": "0.01435"
+    },
+    {
+      "product_id": "ETH-USD",
+      "base_currency_id": "ETH",
+      "quote_currency_id": "USD",
+      "price": "3646.04",
+      "volume_24h": "166784.56501524",
+      "open_24h": "3649.26",
+      "high_24h": "3766.79",
+      "low_24h": "3627.22"
+    },
+    {
+      "product_id": "MAGIC-USD",
+      "base_currency_id": "MAGIC",
+      "quote_currency_id": "USD",
+      "price": "0.1712",
+      "volume_24h": "6220558.3",
+      "open_24h": "0.1774",
+      "high_24h": "0.1945",
+      "low_24h": "0.1704"
+    },
+    {
+      "product_id": "GRT-BTC",
+      "base_currency_id": "GRT",
+      "quote_currency_id": "BTC",
+      "price": "0.0000009",
+      "volume_24h": "48375.68",
+      "open_24h": "0.00000092",
+      "high_24h": "0.00000095",
+      "low_24h": "0.0000009"
+    },
+    {
+      "product_id": "MANTLE-USD",
+      "base_currency_id": "MANTLE",
+      "quote_currency_id": "USD",
+      "price": "0.8147",
+      "volume_24h": "98744.51",
+      "open_24h": "0.7909",
+      "high_24h": "0.8356",
+      "low_24h": "0.7874"
+    },
+    {
+      "product_id": "ACS-USD",
+      "base_currency_id": "ACS",
+      "quote_currency_id": "USD",
+      "price": "0.0012985",
+      "volume_24h": "60756189",
+      "open_24h": "0.0013183",
+      "high_24h": "0.0013324",
+      "low_24h": "0.0012965"
+    },
+    {
+      "product_id": "S-USD",
+      "base_currency_id": "S",
+      "quote_currency_id": "USD",
+      "price": "0.35434",
+      "volume_24h": "3067445.9",
+      "open_24h": "0.36729",
+      "high_24h": "0.38439",
+      "low_24h": "0.35275"
+    },
+    {
+      "product_id": "IMX-USDT",
+      "base_currency_id": "IMX",
+      "quote_currency_id": "USDT",
+      "price": "0.6007",
+      "volume_24h": "12531.56",
+      "open_24h": "0.6283",
+      "high_24h": "0.6428",
+      "low_24h": "0.6007"
+    },
+    {
+      "product_id": "REZ-USD",
+      "base_currency_id": "REZ",
+      "quote_currency_id": "USD",
+      "price": "0.01381",
+      "volume_24h": "47002282",
+      "open_24h": "0.01354",
+      "high_24h": "0.01433",
+      "low_24h": "0.01309"
+    },
+    {
+      "product_id": "ETHFI-USD",
+      "base_currency_id": "ETHFI",
+      "quote_currency_id": "USD",
+      "price": "1.223",
+      "volume_24h": "485916.24",
+      "open_24h": "1.257",
+      "high_24h": "1.31",
+      "low_24h": "1.218"
+    },
+    {
+      "product_id": "BCH-EUR",
+      "base_currency_id": "BCH",
+      "quote_currency_id": "EUR",
+      "price": "442.1",
+      "volume_24h": "1341.45445394",
+      "open_24h": "438.7",
+      "high_24h": "454.94",
+      "low_24h": "437.36"
+    },
+    {
+      "product_id": "FIL-GBP",
+      "base_currency_id": "FIL",
+      "quote_currency_id": "GBP",
+      "price": "2.01",
+      "volume_24h": "959.952",
+      "open_24h": "2.09",
+      "high_24h": "2.17",
+      "low_24h": "2.01"
+    },
+    {
+      "product_id": "EIGEN-USD",
+      "base_currency_id": "EIGEN",
+      "quote_currency_id": "USD",
+      "price": "1.386",
+      "volume_24h": "486505.66",
+      "open_24h": "1.439",
+      "high_24h": "1.497",
+      "low_24h": "1.379"
+    },
+    {
+      "product_id": "CLV-USD",
+      "base_currency_id": "CLV",
+      "quote_currency_id": "USD",
+      "price": "0.0263",
+      "volume_24h": "14113660.09",
+      "open_24h": "0.0239",
+      "high_24h": "0.0271",
+      "low_24h": "0.0237"
+    },
+    {
+      "product_id": "ATOM-USDT",
+      "base_currency_id": "ATOM",
+      "quote_currency_id": "USDT",
+      "price": "4.871",
+      "volume_24h": "26762.6",
+      "open_24h": "4.959",
+      "high_24h": "5.132",
+      "low_24h": "4.867"
+    },
+    {
+      "product_id": "RAD-USD",
+      "base_currency_id": "RAD",
+      "quote_currency_id": "USD",
+      "price": "0.69",
+      "volume_24h": "237199.09",
+      "open_24h": "0.68",
+      "high_24h": "0.73",
+      "low_24h": "0.68"
+    },
+    {
+      "product_id": "CVX-USD",
+      "base_currency_id": "CVX",
+      "quote_currency_id": "USD",
+      "price": "4.521",
+      "volume_24h": "844986.845",
+      "open_24h": "4.409",
+      "high_24h": "5.213",
+      "low_24h": "4.37"
+    },
+    {
+      "product_id": "YFI-BTC",
+      "base_currency_id": "YFI",
+      "quote_currency_id": "BTC",
+      "price": "0.05",
+      "volume_24h": "28.648909",
+      "open_24h": "0.0506",
+      "high_24h": "0.0518",
+      "low_24h": "0.0499"
+    },
+    {
+      "product_id": "PENGU-USD",
+      "base_currency_id": "PENGU",
+      "quote_currency_id": "USD",
+      "price": "0.04148",
+      "volume_24h": "3399780913",
+      "open_24h": "0.04147",
+      "high_24h": "0.04663",
+      "low_24h": "0.039"
+    },
+    {
+      "product_id": "AMP-USD",
+      "base_currency_id": "AMP",
+      "quote_currency_id": "USD",
+      "price": "0.00409",
+      "volume_24h": "190856079",
+      "open_24h": "0.00417",
+      "high_24h": "0.00428",
+      "low_24h": "0.00407"
+    },
+    {
+      "product_id": "FET-USDT",
+      "base_currency_id": "FET",
+      "quote_currency_id": "USDT",
+      "price": "0.7546",
+      "volume_24h": "249293.9",
+      "open_24h": "0.7789",
+      "high_24h": "0.8262",
+      "low_24h": "0.7517"
+    },
+    {
+      "product_id": "LINK-USDT",
+      "base_currency_id": "LINK",
+      "quote_currency_id": "USDT",
+      "price": "18.42",
+      "volume_24h": "72406.038",
+      "open_24h": "18.92",
+      "high_24h": "19.74",
+      "low_24h": "18.39"
+    },
+    {
+      "product_id": "VARA-USD",
+      "base_currency_id": "VARA",
+      "quote_currency_id": "USD",
+      "price": "0.00501",
+      "volume_24h": "46742436",
+      "open_24h": "0.00521",
+      "high_24h": "0.00526",
+      "low_24h": "0.00498"
+    },
+    {
+      "product_id": "KRL-USD",
+      "base_currency_id": "KRL",
+      "quote_currency_id": "USD",
+      "price": "0.362",
+      "volume_24h": "66295.4",
+      "open_24h": "0.362",
+      "high_24h": "0.3663",
+      "low_24h": "0.361"
+    },
+    {
+      "product_id": "ROSE-USDT",
+      "base_currency_id": "ROSE",
+      "quote_currency_id": "USDT",
+      "price": "0.0297",
+      "volume_24h": "364982.9",
+      "open_24h": "0.0309",
+      "high_24h": "0.0324",
+      "low_24h": "0.0296"
+    },
+    {
+      "product_id": "MATIC-GBP",
+      "base_currency_id": "MATIC",
+      "quote_currency_id": "GBP",
+      "price": "0.1755",
+      "volume_24h": "99540.8",
+      "open_24h": "0.1822",
+      "high_24h": "0.1885",
+      "low_24h": "0.175"
+    },
+    {
+      "product_id": "LRC-USD",
+      "base_currency_id": "LRC",
+      "quote_currency_id": "USD",
+      "price": "0.0961",
+      "volume_24h": "6414998.387613",
+      "open_24h": "0.0997",
+      "high_24h": "0.1028",
+      "low_24h": "0.0954"
+    },
+    {
+      "product_id": "FIL-BTC",
+      "base_currency_id": "FIL",
+      "quote_currency_id": "BTC",
+      "price": "0.00002332",
+      "volume_24h": "2462.881",
+      "open_24h": "0.00002367",
+      "high_24h": "0.00002458",
+      "low_24h": "0.00002332"
+    },
+    {
+      "product_id": "APT-USDT",
+      "base_currency_id": "APT",
+      "quote_currency_id": "USDT",
+      "price": "5.14",
+      "volume_24h": "12483.375",
+      "open_24h": "5.2",
+      "high_24h": "5.62",
+      "low_24h": "5.05"
+    },
+    {
+      "product_id": "EURC-USDC",
+      "base_currency_id": "EURC",
+      "quote_currency_id": "USDC",
+      "price": "1.1727",
+      "volume_24h": "6159033",
+      "open_24h": "1.1707",
+      "high_24h": "1.178",
+      "low_24h": "1.1693"
+    },
+    {
+      "product_id": "RARE-USD",
+      "base_currency_id": "RARE",
+      "quote_currency_id": "USD",
+      "price": "0.0634",
+      "volume_24h": "14046650.3",
+      "open_24h": "0.063",
+      "high_24h": "0.0659",
+      "low_24h": "0.0625"
+    },
+    {
+      "product_id": "OCEAN-USD",
+      "base_currency_id": "OCEAN",
+      "quote_currency_id": "USD",
+      "price": "0.338",
+      "volume_24h": "601332.4",
+      "open_24h": "0.3465",
+      "high_24h": "0.36",
+      "low_24h": "0.3366"
+    },
+    {
+      "product_id": "ME-USD",
+      "base_currency_id": "ME",
+      "quote_currency_id": "USD",
+      "price": "0.929",
+      "volume_24h": "192230.51",
+      "open_24h": "0.927",
+      "high_24h": "0.969",
+      "low_24h": "0.914"
+    },
+    {
+      "product_id": "C98-USD",
+      "base_currency_id": "C98",
+      "quote_currency_id": "USD",
+      "price": "0.0605",
+      "volume_24h": "1585713.96",
+      "open_24h": "0.0593",
+      "high_24h": "0.0656",
+      "low_24h": "0.0593"
+    },
+    {
+      "product_id": "AERO-USD",
+      "base_currency_id": "AERO",
+      "quote_currency_id": "USD",
+      "price": "0.91823",
+      "volume_24h": "9094212.8",
+      "open_24h": "0.94773",
+      "high_24h": "0.9892",
+      "low_24h": "0.91566"
+    },
+    {
+      "product_id": "ADA-GBP",
+      "base_currency_id": "ADA",
+      "quote_currency_id": "GBP",
+      "price": "0.6159",
+      "volume_24h": "826579.72",
+      "open_24h": "0.6406",
+      "high_24h": "0.68",
+      "low_24h": "0.612"
+    },
+    {
+      "product_id": "PIRATE-USD",
+      "base_currency_id": "PIRATE",
+      "quote_currency_id": "USD",
+      "price": "0.0431",
+      "volume_24h": "5410682.5",
+      "open_24h": "0.0459",
+      "high_24h": "0.0469",
+      "low_24h": "0.0425"
+    },
+    {
+      "product_id": "MLN-USD",
+      "base_currency_id": "MLN",
+      "quote_currency_id": "USD",
+      "price": "8.23",
+      "volume_24h": "22659.247",
+      "open_24h": "8.17",
+      "high_24h": "8.72",
+      "low_24h": "8.14"
+    },
+    {
+      "product_id": "XCN-USD",
+      "base_currency_id": "XCN",
+      "quote_currency_id": "USD",
+      "price": "0.01747",
+      "volume_24h": "572650460.2",
+      "open_24h": "0.01844",
+      "high_24h": "0.01907",
+      "low_24h": "0.01741"
+    },
+    {
+      "product_id": "ARKM-USD",
+      "base_currency_id": "ARKM",
+      "quote_currency_id": "USD",
+      "price": "0.578",
+      "volume_24h": "363253.84",
+      "open_24h": "0.586",
+      "high_24h": "0.633",
+      "low_24h": "0.574"
+    },
+    {
+      "product_id": "DOGE-USD",
+      "base_currency_id": "DOGE",
+      "quote_currency_id": "USD",
+      "price": "0.24909",
+      "volume_24h": "409737625.5",
+      "open_24h": "0.26266",
+      "high_24h": "0.27151",
+      "low_24h": "0.24659"
+    },
+    {
+      "product_id": "SAND-USDT",
+      "base_currency_id": "SAND",
+      "quote_currency_id": "USDT",
+      "price": "0.32",
+      "volume_24h": "239584.36",
+      "open_24h": "0.3292",
+      "high_24h": "0.342",
+      "low_24h": "0.3181"
+    },
+    {
+      "product_id": "GRT-EUR",
+      "base_currency_id": "GRT",
+      "quote_currency_id": "EUR",
+      "price": "0.0911",
+      "volume_24h": "3163721.77",
+      "open_24h": "0.0933",
+      "high_24h": "0.0967",
+      "low_24h": "0.0905"
+    },
+    {
+      "product_id": "FX-USD",
+      "base_currency_id": "FX",
+      "quote_currency_id": "USD",
+      "price": "0.1289",
+      "volume_24h": "14029796.1",
+      "open_24h": "0.1244",
+      "high_24h": "0.1677",
+      "low_24h": "0.1238"
+    },
+    {
+      "product_id": "VOXEL-USD",
+      "base_currency_id": "VOXEL",
+      "quote_currency_id": "USD",
+      "price": "0.0652",
+      "volume_24h": "89276422.19",
+      "open_24h": "0.0551",
+      "high_24h": "0.0743",
+      "low_24h": "0.0547"
+    },
+    {
+      "product_id": "ALT-USD",
+      "base_currency_id": "ALT",
+      "quote_currency_id": "USD",
+      "price": "0.03476",
+      "volume_24h": "7043224",
+      "open_24h": "0.03675",
+      "high_24h": "0.03796",
+      "low_24h": "0.0345"
+    },
+    {
+      "product_id": "XTZ-USD",
+      "base_currency_id": "XTZ",
+      "quote_currency_id": "USD",
+      "price": "0.916",
+      "volume_24h": "3219201.57",
+      "open_24h": "0.946",
+      "high_24h": "1.023",
+      "low_24h": "0.91"
+    },
+    {
+      "product_id": "MINA-USD",
+      "base_currency_id": "MINA",
+      "quote_currency_id": "USD",
+      "price": "0.224",
+      "volume_24h": "2043855.432",
+      "open_24h": "0.227",
+      "high_24h": "0.239",
+      "low_24h": "0.224"
+    },
+    {
+      "product_id": "IO-USD",
+      "base_currency_id": "IO",
+      "quote_currency_id": "USD",
+      "price": "0.789",
+      "volume_24h": "902108.71",
+      "open_24h": "0.812",
+      "high_24h": "0.847",
+      "low_24h": "0.781"
+    },
+    {
+      "product_id": "ZORA-USD",
+      "base_currency_id": "ZORA",
+      "quote_currency_id": "USD",
+      "price": "0.04289",
+      "volume_24h": "868335028",
+      "open_24h": "0.02269",
+      "high_24h": "0.047",
+      "low_24h": "0.02158"
+    },
+    {
+      "product_id": "CBETH-USD",
+      "base_currency_id": "CBETH",
+      "quote_currency_id": "USD",
+      "price": "4022.99",
+      "volume_24h": "742.97799",
+      "open_24h": "4019.97",
+      "high_24h": "4152.84",
+      "low_24h": "4001.18"
+    },
+    {
+      "product_id": "CRO-EUR",
+      "base_currency_id": "CRO",
+      "quote_currency_id": "EUR",
+      "price": "0.104",
+      "volume_24h": "389133.5",
+      "open_24h": "0.1056",
+      "high_24h": "0.1092",
+      "low_24h": "0.1034"
+    },
+    {
+      "product_id": "CBETH-ETH",
+      "base_currency_id": "CBETH",
+      "quote_currency_id": "ETH",
+      "price": "1.10309",
+      "volume_24h": "140.05291",
+      "open_24h": "1.10316",
+      "high_24h": "1.10319",
+      "low_24h": "1.10281"
+    },
+    {
+      "product_id": "PENDLE-USD",
+      "base_currency_id": "PENDLE",
+      "quote_currency_id": "USD",
+      "price": "4.548",
+      "volume_24h": "240126.44",
+      "open_24h": "4.515",
+      "high_24h": "5.01",
+      "low_24h": "4.465"
+    },
+    {
+      "product_id": "GNO-USD",
+      "base_currency_id": "GNO",
+      "quote_currency_id": "USD",
+      "price": "145.95",
+      "volume_24h": "290.2725",
+      "open_24h": "148.33",
+      "high_24h": "150.97",
+      "low_24h": "145.89"
+    },
+    {
+      "product_id": "ALEO-USD",
+      "base_currency_id": "ALEO",
+      "quote_currency_id": "USD",
+      "price": "0.299",
+      "volume_24h": "16468566.3",
+      "open_24h": "0.31",
+      "high_24h": "0.41",
+      "low_24h": "0.292"
+    },
+    {
+      "product_id": "POPCAT-USD",
+      "base_currency_id": "POPCAT",
+      "quote_currency_id": "USD",
+      "price": "0.4277",
+      "volume_24h": "28174939.65",
+      "open_24h": "0.4163",
+      "high_24h": "0.4888",
+      "low_24h": "0.41"
+    },
+    {
+      "product_id": "W-USD",
+      "base_currency_id": "W",
+      "quote_currency_id": "USD",
+      "price": "0.08727",
+      "volume_24h": "9751891.44",
+      "open_24h": "0.0935",
+      "high_24h": "0.09583",
+      "low_24h": "0.08676"
+    },
+    {
+      "product_id": "OXT-USD",
+      "base_currency_id": "OXT",
+      "quote_currency_id": "USD",
+      "price": "0.0611",
+      "volume_24h": "1899418",
+      "open_24h": "0.0622",
+      "high_24h": "0.0637",
+      "low_24h": "0.061"
+    },
+    {
+      "product_id": "COOKIE-USD",
+      "base_currency_id": "COOKIE",
+      "quote_currency_id": "USD",
+      "price": "0.20484",
+      "volume_24h": "11038949.9",
+      "open_24h": "0.21084",
+      "high_24h": "0.22374",
+      "low_24h": "0.20268"
+    },
+    {
+      "product_id": "EDGE-USD",
+      "base_currency_id": "EDGE",
+      "quote_currency_id": "USD",
+      "price": "0.1016",
+      "volume_24h": "46855155",
+      "open_24h": "0.06868",
+      "high_24h": "0.10835",
+      "low_24h": "0.06853"
+    },
+    {
+      "product_id": "POLS-USD",
+      "base_currency_id": "POLS",
+      "quote_currency_id": "USD",
+      "price": "0.2071",
+      "volume_24h": "628068.65",
+      "open_24h": "0.2082",
+      "high_24h": "0.2251",
+      "low_24h": "0.2029"
+    },
+    {
+      "product_id": "IOTX-USD",
+      "base_currency_id": "IOTX",
+      "quote_currency_id": "USD",
+      "price": "0.031",
+      "volume_24h": "10743404",
+      "open_24h": "0.0293",
+      "high_24h": "0.03451",
+      "low_24h": "0.02907"
+    },
+    {
+      "product_id": "QNT-USD",
+      "base_currency_id": "QNT",
+      "quote_currency_id": "USD",
+      "price": "125.46",
+      "volume_24h": "29238.468",
+      "open_24h": "130.4",
+      "high_24h": "135.84",
+      "low_24h": "124.93"
+    },
+    {
+      "product_id": "APE-USDT",
+      "base_currency_id": "APE",
+      "quote_currency_id": "USDT",
+      "price": "0.703",
+      "volume_24h": "164044.13",
+      "open_24h": "0.7",
+      "high_24h": "0.733",
+      "low_24h": "0.7"
+    },
+    {
+      "product_id": "SOL-USDT",
+      "base_currency_id": "SOL",
+      "quote_currency_id": "USDT",
+      "price": "193.78",
+      "volume_24h": "46913.422",
+      "open_24h": "198.82",
+      "high_24h": "206.34",
+      "low_24h": "191.69"
+    },
+    {
+      "product_id": "MATIC-USD",
+      "base_currency_id": "MATIC",
+      "quote_currency_id": "USD",
+      "price": "0.2392",
+      "volume_24h": "4345286.9",
+      "open_24h": "0.2461",
+      "high_24h": "0.2548",
+      "low_24h": "0.2368"
+    },
+    {
+      "product_id": "ETH-DAI",
+      "base_currency_id": "ETH",
+      "quote_currency_id": "DAI",
+      "price": "3656.39",
+      "volume_24h": "439.8236",
+      "open_24h": "3646.9",
+      "high_24h": "3765.64",
+      "low_24h": "3630.17"
+    },
+    {
+      "product_id": "LTC-USD",
+      "base_currency_id": "LTC",
+      "quote_currency_id": "USD",
+      "price": "114.8",
+      "volume_24h": "344451.3996842",
+      "open_24h": "113.26",
+      "high_24h": "122.33",
+      "low_24h": "112.83"
+    },
+    {
+      "product_id": "SUSHI-USD",
+      "base_currency_id": "SUSHI",
+      "quote_currency_id": "USD",
+      "price": "0.956",
+      "volume_24h": "4833298.4",
+      "open_24h": "0.9525",
+      "high_24h": "1.0308",
+      "low_24h": "0.942"
+    },
+    {
+      "product_id": "CGLD-EUR",
+      "base_currency_id": "CGLD",
+      "quote_currency_id": "EUR",
+      "price": "0.31",
+      "volume_24h": "5899.87",
+      "open_24h": "0.32",
+      "high_24h": "0.33",
+      "low_24h": "0.31"
+    },
+    {
+      "product_id": "PNUT-USD",
+      "base_currency_id": "PNUT",
+      "quote_currency_id": "USD",
+      "price": "0.3096",
+      "volume_24h": "19572584.7",
+      "open_24h": "0.3147",
+      "high_24h": "0.3355",
+      "low_24h": "0.3028"
+    },
+    {
+      "product_id": "STORJ-USD",
+      "base_currency_id": "STORJ",
+      "quote_currency_id": "USD",
+      "price": "0.313",
+      "volume_24h": "356233.25",
+      "open_24h": "0.3144",
+      "high_24h": "0.3246",
+      "low_24h": "0.311"
+    },
+    {
+      "product_id": "ERN-USD",
+      "base_currency_id": "ERN",
+      "quote_currency_id": "USD",
+      "price": "0.902",
+      "volume_24h": "100310.43",
+      "open_24h": "0.9084",
+      "high_24h": "0.9341",
+      "low_24h": "0.901"
+    },
+    {
+      "product_id": "STX-USD",
+      "base_currency_id": "STX",
+      "quote_currency_id": "USD",
+      "price": "0.8408",
+      "volume_24h": "5692474",
+      "open_24h": "0.8441",
+      "high_24h": "0.9046",
+      "low_24h": "0.8315"
+    },
+    {
+      "product_id": "DIA-USD",
+      "base_currency_id": "DIA",
+      "quote_currency_id": "USD",
+      "price": "1.00658",
+      "volume_24h": "14780349.26",
+      "open_24h": "1.01625",
+      "high_24h": "1.15596",
+      "low_24h": "0.98037"
+    },
+    {
+      "product_id": "NEAR-USDT",
+      "base_currency_id": "NEAR",
+      "quote_currency_id": "USDT",
+      "price": "2.847",
+      "volume_24h": "54857.95",
+      "open_24h": "2.892",
+      "high_24h": "3.033",
+      "low_24h": "2.823"
+    },
+    {
+      "product_id": "TRAC-USD",
+      "base_currency_id": "TRAC",
+      "quote_currency_id": "USD",
+      "price": "0.4998",
+      "volume_24h": "896736.9",
+      "open_24h": "0.4958",
+      "high_24h": "0.5989",
+      "low_24h": "0.4958"
+    },
+    {
+      "product_id": "XRP-USDT",
+      "base_currency_id": "XRP",
+      "quote_currency_id": "USDT",
+      "price": "3.3649",
+      "volume_24h": "837276.58032",
+      "open_24h": "3.4772",
+      "high_24h": "3.579",
+      "low_24h": "3.3077"
+    },
+    {
+      "product_id": "IMX-USD",
+      "base_currency_id": "IMX",
+      "quote_currency_id": "USD",
+      "price": "0.6015",
+      "volume_24h": "2771854.31",
+      "open_24h": "0.6144",
+      "high_24h": "0.6459",
+      "low_24h": "0.5943"
+    },
+    {
+      "product_id": "BAT-USD",
+      "base_currency_id": "BAT",
+      "quote_currency_id": "USD",
+      "price": "0.16545",
+      "volume_24h": "1353610.03",
+      "open_24h": "0.164",
+      "high_24h": "0.17579",
+      "low_24h": "0.163"
+    },
+    {
+      "product_id": "COMP-BTC",
+      "base_currency_id": "COMP",
+      "quote_currency_id": "BTC",
+      "price": "0.000429",
+      "volume_24h": "337.605",
+      "open_24h": "0.000429",
+      "high_24h": "0.000452",
+      "low_24h": "0.000428"
+    },
+    {
+      "product_id": "ATOM-USD",
+      "base_currency_id": "ATOM",
+      "quote_currency_id": "USD",
+      "price": "4.914",
+      "volume_24h": "1023683.88",
+      "open_24h": "5.003",
+      "high_24h": "5.139",
+      "low_24h": "4.863"
+    },
+    {
+      "product_id": "TURBO-USD",
+      "base_currency_id": "TURBO",
+      "quote_currency_id": "USD",
+      "price": "0.005283",
+      "volume_24h": "717349879",
+      "open_24h": "0.005405",
+      "high_24h": "0.005702",
+      "low_24h": "0.005218"
+    },
+    {
+      "product_id": "ALGO-BTC",
+      "base_currency_id": "ALGO",
+      "quote_currency_id": "BTC",
+      "price": "0.00000232",
+      "volume_24h": "174961",
+      "open_24h": "0.00000242",
+      "high_24h": "0.00000248",
+      "low_24h": "0.00000232"
+    },
+    {
+      "product_id": "METIS-USD",
+      "base_currency_id": "METIS",
+      "quote_currency_id": "USD",
+      "price": "18.29",
+      "volume_24h": "16234.43",
+      "open_24h": "18.71",
+      "high_24h": "19.56",
+      "low_24h": "18.03"
+    },
+    {
+      "product_id": "DNT-USD",
+      "base_currency_id": "DNT",
+      "quote_currency_id": "USD",
+      "price": "0.029",
+      "volume_24h": "3035117.7",
+      "open_24h": "0.0284",
+      "high_24h": "0.0316",
+      "low_24h": "0.028"
+    },
+    {
+      "product_id": "UNI-USD",
+      "base_currency_id": "UNI",
+      "quote_currency_id": "USD",
+      "price": "10.172",
+      "volume_24h": "778427.379133",
+      "open_24h": "10.318",
+      "high_24h": "10.852",
+      "low_24h": "10.025"
+    },
+    {
+      "product_id": "CGLD-USD",
+      "base_currency_id": "CGLD",
+      "quote_currency_id": "USD",
+      "price": "0.365",
+      "volume_24h": "333592.61",
+      "open_24h": "0.37",
+      "high_24h": "0.386",
+      "low_24h": "0.363"
+    },
+    {
+      "product_id": "AAVE-BTC",
+      "base_currency_id": "AAVE",
+      "quote_currency_id": "BTC",
+      "price": "0.002504",
+      "volume_24h": "2195.488",
+      "open_24h": "0.002579",
+      "high_24h": "0.002601",
+      "low_24h": "0.0024"
+    },
+    {
+      "product_id": "FIL-USD",
+      "base_currency_id": "FIL",
+      "quote_currency_id": "USD",
+      "price": "2.746",
+      "volume_24h": "1136208.46",
+      "open_24h": "2.8",
+      "high_24h": "2.942",
+      "low_24h": "2.717"
+    },
+    {
+      "product_id": "CLANKER-USD",
+      "base_currency_id": "CLANKER",
+      "quote_currency_id": "USD",
+      "price": "38.51",
+      "volume_24h": "21392.6788",
+      "open_24h": "35.92",
+      "high_24h": "41.48",
+      "low_24h": "33.64"
+    },
+    {
+      "product_id": "SNX-BTC",
+      "base_currency_id": "SNX",
+      "quote_currency_id": "BTC",
+      "price": "0.0000059",
+      "volume_24h": "603.43",
+      "open_24h": "0.0000061",
+      "high_24h": "0.0000061",
+      "low_24h": "0.0000059"
+    },
+    {
+      "product_id": "LINK-GBP",
+      "base_currency_id": "LINK",
+      "quote_currency_id": "GBP",
+      "price": "13.72",
+      "volume_24h": "24519.08",
+      "open_24h": "14.04",
+      "high_24h": "14.61",
+      "low_24h": "13.59"
+    },
+    {
+      "product_id": "GTC-USD",
+      "base_currency_id": "GTC",
+      "quote_currency_id": "USD",
+      "price": "0.31",
+      "volume_24h": "85435.25",
+      "open_24h": "0.32",
+      "high_24h": "0.33",
+      "low_24h": "0.31"
+    },
+    {
+      "product_id": "ORCA-USD",
+      "base_currency_id": "ORCA",
+      "quote_currency_id": "USD",
+      "price": "2.5865",
+      "volume_24h": "281176.64",
+      "open_24h": "2.6364",
+      "high_24h": "2.768",
+      "low_24h": "2.5543"
+    },
+    {
+      "product_id": "NEAR-USD",
+      "base_currency_id": "NEAR",
+      "quote_currency_id": "USD",
+      "price": "2.856",
+      "volume_24h": "1976327.365",
+      "open_24h": "2.897",
+      "high_24h": "3.039",
+      "low_24h": "2.822"
+    },
+    {
+      "product_id": "MKR-USD",
+      "base_currency_id": "MKR",
+      "quote_currency_id": "USD",
+      "price": "2018.7",
+      "volume_24h": "1689.16753",
+      "open_24h": "2006.56",
+      "high_24h": "2109.34",
+      "low_24h": "1985.78"
+    },
+    {
+      "product_id": "ATH-USD",
+      "base_currency_id": "ATH",
+      "quote_currency_id": "USD",
+      "price": "0.03342",
+      "volume_24h": "29583024",
+      "open_24h": "0.03288",
+      "high_24h": "0.03543",
+      "low_24h": "0.03275"
+    },
+    {
+      "product_id": "APE-USD",
+      "base_currency_id": "APE",
+      "quote_currency_id": "USD",
+      "price": "0.706",
+      "volume_24h": "756450.42",
+      "open_24h": "0.703",
+      "high_24h": "0.734",
+      "low_24h": "0.697"
+    },
+    {
+      "product_id": "LDO-USD",
+      "base_currency_id": "LDO",
+      "quote_currency_id": "USD",
+      "price": "1.116",
+      "volume_24h": "3222003.88",
+      "open_24h": "1.157",
+      "high_24h": "1.221",
+      "low_24h": "1.105"
+    },
+    {
+      "product_id": "ZETACHAIN-USD",
+      "base_currency_id": "ZETACHAIN",
+      "quote_currency_id": "USD",
+      "price": "0.2295",
+      "volume_24h": "38316.43",
+      "open_24h": "0.2338",
+      "high_24h": "0.245",
+      "low_24h": "0.2272"
+    },
+    {
+      "product_id": "USDC-GBP",
+      "base_currency_id": "USDC",
+      "quote_currency_id": "GBP",
+      "price": "0.7391",
+      "volume_24h": "2967175.22",
+      "open_24h": "0.7414",
+      "high_24h": "0.7421",
+      "low_24h": "0.7379"
+    },
+    {
+      "product_id": "DOT-USDT",
+      "base_currency_id": "DOT",
+      "quote_currency_id": "USDT",
+      "price": "4.27",
+      "volume_24h": "28591.175",
+      "open_24h": "4.35",
+      "high_24h": "4.54",
+      "low_24h": "4.23"
+    },
+    {
+      "product_id": "ADA-EUR",
+      "base_currency_id": "ADA",
+      "quote_currency_id": "EUR",
+      "price": "0.7151",
+      "volume_24h": "2737810.36",
+      "open_24h": "0.7387",
+      "high_24h": "0.771",
+      "low_24h": "0.7064"
+    },
+    {
+      "product_id": "DOGE-EUR",
+      "base_currency_id": "DOGE",
+      "quote_currency_id": "EUR",
+      "price": "0.2133",
+      "volume_24h": "6022039",
+      "open_24h": "0.2244",
+      "high_24h": "0.231",
+      "low_24h": "0.2103"
+    },
+    {
+      "product_id": "GHST-USD",
+      "base_currency_id": "GHST",
+      "quote_currency_id": "USD",
+      "price": "0.526",
+      "volume_24h": "49497.51",
+      "open_24h": "0.519",
+      "high_24h": "0.552",
+      "low_24h": "0.517"
+    },
+    {
+      "product_id": "ATOM-BTC",
+      "base_currency_id": "ATOM",
+      "quote_currency_id": "BTC",
+      "price": "0.0000415",
+      "volume_24h": "263323.3",
+      "open_24h": "0.0000423",
+      "high_24h": "0.0000431",
+      "low_24h": "0.0000413"
+    },
+    {
+      "product_id": "JTO-USD",
+      "base_currency_id": "JTO",
+      "quote_currency_id": "USD",
+      "price": "2.0721",
+      "volume_24h": "2017825.6",
+      "open_24h": "2.122",
+      "high_24h": "2.2644",
+      "low_24h": "2.0556"
+    },
+    {
+      "product_id": "COMP-USD",
+      "base_currency_id": "COMP",
+      "quote_currency_id": "USD",
+      "price": "51.11",
+      "volume_24h": "41614.193",
+      "open_24h": "50.51",
+      "high_24h": "53.88",
+      "low_24h": "50.06"
+    },
+    {
+      "product_id": "CELR-USD",
+      "base_currency_id": "CELR",
+      "quote_currency_id": "USD",
+      "price": "0.00869",
+      "volume_24h": "6221183",
+      "open_24h": "0.00885",
+      "high_24h": "0.00923",
+      "low_24h": "0.00865"
+    },
+    {
+      "product_id": "AVT-USD",
+      "base_currency_id": "AVT",
+      "quote_currency_id": "USD",
+      "price": "1.71",
+      "volume_24h": "54361.66",
+      "open_24h": "1.66",
+      "high_24h": "1.76",
+      "low_24h": "1.65"
+    },
+    {
+      "product_id": "ALGO-USD",
+      "base_currency_id": "ALGO",
+      "quote_currency_id": "USD",
+      "price": "0.2753",
+      "volume_24h": "27869791.8",
+      "open_24h": "0.2829",
+      "high_24h": "0.2982",
+      "low_24h": "0.2728"
+    },
+    {
+      "product_id": "DOT-GBP",
+      "base_currency_id": "DOT",
+      "quote_currency_id": "GBP",
+      "price": "3.16",
+      "volume_24h": "31297.333",
+      "open_24h": "3.25",
+      "high_24h": "3.36",
+      "low_24h": "3.13"
+    },
+    {
+      "product_id": "QNT-USDT",
+      "base_currency_id": "QNT",
+      "quote_currency_id": "USDT",
+      "price": "125.05",
+      "volume_24h": "287.2903",
+      "open_24h": "129.71",
+      "high_24h": "135.17",
+      "low_24h": "125.05"
+    },
+    {
+      "product_id": "SOL-BTC",
+      "base_currency_id": "SOL",
+      "quote_currency_id": "BTC",
+      "price": "0.0016402",
+      "volume_24h": "6811.716",
+      "open_24h": "0.0016853",
+      "high_24h": "0.0017201",
+      "low_24h": "0.0016268"
+    },
+    {
+      "product_id": "CRV-EUR",
+      "base_currency_id": "CRV",
+      "quote_currency_id": "EUR",
+      "price": "0.8157",
+      "volume_24h": "1675502.71",
+      "open_24h": "0.7821",
+      "high_24h": "0.8928",
+      "low_24h": "0.7742"
+    },
+    {
+      "product_id": "LRC-USDT",
+      "base_currency_id": "LRC",
+      "quote_currency_id": "USDT",
+      "price": "0.096",
+      "volume_24h": "17923.7",
+      "open_24h": "0.0996",
+      "high_24h": "0.1022",
+      "low_24h": "0.096"
+    },
+    {
+      "product_id": "ADA-ETH",
+      "base_currency_id": "ADA",
+      "quote_currency_id": "ETH",
+      "price": "0.000228",
+      "volume_24h": "19011.08",
+      "open_24h": "0.000236",
+      "high_24h": "0.000241",
+      "low_24h": "0.000228"
+    },
+    {
+      "product_id": "QI-USD",
+      "base_currency_id": "QI",
+      "quote_currency_id": "USD",
+      "price": "0.007998",
+      "volume_24h": "10457615",
+      "open_24h": "0.007977",
+      "high_24h": "0.008301",
+      "low_24h": "0.00794"
+    },
+    {
+      "product_id": "GRT-USD",
+      "base_currency_id": "GRT",
+      "quote_currency_id": "USD",
+      "price": "0.1072",
+      "volume_24h": "25977372.85",
+      "open_24h": "0.1094",
+      "high_24h": "0.1138",
+      "low_24h": "0.1061"
+    },
+    {
+      "product_id": "NKN-USD",
+      "base_currency_id": "NKN",
+      "quote_currency_id": "USD",
+      "price": "0.0315",
+      "volume_24h": "9078155.2",
+      "open_24h": "0.0309",
+      "high_24h": "0.0328",
+      "low_24h": "0.0306"
+    },
+    {
+      "product_id": "PAX-USD",
+      "base_currency_id": "PAX",
+      "quote_currency_id": "USD",
+      "price": "1",
+      "volume_24h": "220.23",
+      "open_24h": "0.9989",
+      "high_24h": "1",
+      "low_24h": "0.9979"
+    },
+    {
+      "product_id": "CHZ-EUR",
+      "base_currency_id": "CHZ",
+      "quote_currency_id": "EUR",
+      "price": "0.038",
+      "volume_24h": "215056",
+      "open_24h": "0.0384",
+      "high_24h": "0.0394",
+      "low_24h": "0.038"
+    },
+    {
+      "product_id": "GFI-USD",
+      "base_currency_id": "GFI",
+      "quote_currency_id": "USD",
+      "price": "0.767",
+      "volume_24h": "228597.7",
+      "open_24h": "0.772",
+      "high_24h": "0.795",
+      "low_24h": "0.76"
+    },
+    {
+      "product_id": "FORTH-USD",
+      "base_currency_id": "FORTH",
+      "quote_currency_id": "USD",
+      "price": "2.8007",
+      "volume_24h": "41513.433",
+      "open_24h": "2.8055",
+      "high_24h": "2.9392",
+      "low_24h": "2.7752"
+    },
+    {
+      "product_id": "CRO-USD",
+      "base_currency_id": "CRO",
+      "quote_currency_id": "USD",
+      "price": "0.1226",
+      "volume_24h": "20226268.2",
+      "open_24h": "0.1234",
+      "high_24h": "0.1285",
+      "low_24h": "0.121"
+    },
+    {
+      "product_id": "SPK-USD",
+      "base_currency_id": "SPK",
+      "quote_currency_id": "USD",
+      "price": "0.1445",
+      "volume_24h": "700706142.1",
+      "open_24h": "0.07526",
+      "high_24h": "0.19",
+      "low_24h": "0.06996"
+    },
+    {
+      "product_id": "B3-USD",
+      "base_currency_id": "B3",
+      "quote_currency_id": "USD",
+      "price": "0.002831",
+      "volume_24h": "332050953",
+      "open_24h": "0.002797",
+      "high_24h": "0.002924",
+      "low_24h": "0.002778"
+    },
+    {
+      "product_id": "CHZ-USD",
+      "base_currency_id": "CHZ",
+      "quote_currency_id": "USD",
+      "price": "0.0441",
+      "volume_24h": "2343055",
+      "open_24h": "0.0444",
+      "high_24h": "0.0464",
+      "low_24h": "0.0438"
+    },
+    {
+      "product_id": "DOT-USD",
+      "base_currency_id": "DOT",
+      "quote_currency_id": "USD",
+      "price": "4.276",
+      "volume_24h": "2597934.87564154",
+      "open_24h": "4.374",
+      "high_24h": "4.556",
+      "low_24h": "4.226"
+    },
+    {
+      "product_id": "SHIB-USDT",
+      "base_currency_id": "SHIB",
+      "quote_currency_id": "USDT",
+      "price": "0.0000144",
+      "volume_24h": "12924992996",
+      "open_24h": "0.0000149",
+      "high_24h": "0.0000155",
+      "low_24h": "0.0000143"
+    },
+    {
+      "product_id": "ETC-USD",
+      "base_currency_id": "ETC",
+      "quote_currency_id": "USD",
+      "price": "22.82",
+      "volume_24h": "216547.2710803",
+      "open_24h": "23.36",
+      "high_24h": "24.87",
+      "low_24h": "22.58"
+    },
+    {
+      "product_id": "BCH-GBP",
+      "base_currency_id": "BCH",
+      "quote_currency_id": "GBP",
+      "price": "384.13",
+      "volume_24h": "52.5132975",
+      "open_24h": "381",
+      "high_24h": "403.99",
+      "low_24h": "380"
+    },
+    {
+      "product_id": "L3-USD",
+      "base_currency_id": "L3",
+      "quote_currency_id": "USD",
+      "price": "0.04904",
+      "volume_24h": "4764601.9",
+      "open_24h": "0.04855",
+      "high_24h": "0.05266",
+      "low_24h": "0.04817"
+    },
+    {
+      "product_id": "OSMO-USD",
+      "base_currency_id": "OSMO",
+      "quote_currency_id": "USD",
+      "price": "0.1936",
+      "volume_24h": "506558.4",
+      "open_24h": "0.1949",
+      "high_24h": "0.2026",
+      "low_24h": "0.1927"
+    },
+    {
+      "product_id": "DOT-BTC",
+      "base_currency_id": "DOT",
+      "quote_currency_id": "BTC",
+      "price": "0.0000362",
+      "volume_24h": "63139.306",
+      "open_24h": "0.0000369",
+      "high_24h": "0.0000381",
+      "low_24h": "0.0000359"
+    },
+    {
+      "product_id": "ADA-USDT",
+      "base_currency_id": "ADA",
+      "quote_currency_id": "USDT",
+      "price": "0.8387",
+      "volume_24h": "1375142.53",
+      "open_24h": "0.8635",
+      "high_24h": "0.9038",
+      "low_24h": "0.8275"
+    },
+    {
+      "product_id": "BCH-BTC",
+      "base_currency_id": "BCH",
+      "quote_currency_id": "BTC",
+      "price": "0.004405",
+      "volume_24h": "78.68158942",
+      "open_24h": "0.004352",
+      "high_24h": "0.004471",
+      "low_24h": "0.00431"
+    },
+    {
+      "product_id": "DEXT-USD",
+      "base_currency_id": "DEXT",
+      "quote_currency_id": "USD",
+      "price": "0.4226",
+      "volume_24h": "25946.4",
+      "open_24h": "0.4412",
+      "high_24h": "0.4422",
+      "low_24h": "0.4207"
+    },
+    {
+      "product_id": "XTZ-GBP",
+      "base_currency_id": "XTZ",
+      "quote_currency_id": "GBP",
+      "price": "0.671",
+      "volume_24h": "48729.98",
+      "open_24h": "0.694",
+      "high_24h": "0.748",
+      "low_24h": "0.671"
+    },
+    {
+      "product_id": "LTC-GBP",
+      "base_currency_id": "LTC",
+      "quote_currency_id": "GBP",
+      "price": "84.93",
+      "volume_24h": "757.48073276",
+      "open_24h": "83.96",
+      "high_24h": "90",
+      "low_24h": "83.96"
+    },
+    {
+      "product_id": "ZEN-USD",
+      "base_currency_id": "ZEN",
+      "quote_currency_id": "USD",
+      "price": "8.652",
+      "volume_24h": "0",
+      "open_24h": "0",
+      "high_24h": "0",
+      "low_24h": "0"
+    },
+    {
+      "product_id": "USDT-USDC",
+      "base_currency_id": "USDT",
+      "quote_currency_id": "USDC",
+      "price": "1.0006",
+      "volume_24h": "1950479.12",
+      "open_24h": "1.0005",
+      "high_24h": "1.0006",
+      "low_24h": "1.0004"
+    },
+    {
+      "product_id": "LOKA-USD",
+      "base_currency_id": "LOKA",
+      "quote_currency_id": "USD",
+      "price": "0.112",
+      "volume_24h": "4525245.15",
+      "open_24h": "0.108",
+      "high_24h": "0.1208",
+      "low_24h": "0.1072"
+    },
+    {
+      "product_id": "BLZ-USD",
+      "base_currency_id": "BLZ",
+      "quote_currency_id": "USD",
+      "price": "0.0403",
+      "volume_24h": "14369849",
+      "open_24h": "0.0408",
+      "high_24h": "0.0436",
+      "low_24h": "0.039"
+    },
+    {
+      "product_id": "RARI-USD",
+      "base_currency_id": "RARI",
+      "quote_currency_id": "USD",
+      "price": "1.0771",
+      "volume_24h": "115286.758",
+      "open_24h": "1.0879",
+      "high_24h": "1.1171",
+      "low_24h": "1.0664"
+    },
+    {
+      "product_id": "DRIFT-USD",
+      "base_currency_id": "DRIFT",
+      "quote_currency_id": "USD",
+      "price": "0.614",
+      "volume_24h": "1551395.15",
+      "open_24h": "0.645",
+      "high_24h": "0.668",
+      "low_24h": "0.605"
+    },
+    {
+      "product_id": "WCFG-USD",
+      "base_currency_id": "WCFG",
+      "quote_currency_id": "USD",
+      "price": "0.231",
+      "volume_24h": "400660.06",
+      "open_24h": "0.228",
+      "high_24h": "0.251",
+      "low_24h": "0.226"
+    },
+    {
+      "product_id": "TRU-USD",
+      "base_currency_id": "TRU",
+      "quote_currency_id": "USD",
+      "price": "0.0332",
+      "volume_24h": "3735299",
+      "open_24h": "0.0339",
+      "high_24h": "0.0353",
+      "low_24h": "0.0329"
+    },
+    {
+      "product_id": "XRP-EUR",
+      "base_currency_id": "XRP",
+      "quote_currency_id": "EUR",
+      "price": "2.8747",
+      "volume_24h": "2157977.810082",
+      "open_24h": "2.9701",
+      "high_24h": "3.0482",
+      "low_24h": "2.8191"
+    },
+    {
+      "product_id": "DOGE-GBP",
+      "base_currency_id": "DOGE",
+      "quote_currency_id": "GBP",
+      "price": "0.1852",
+      "volume_24h": "3591789.8",
+      "open_24h": "0.1947",
+      "high_24h": "0.2005",
+      "low_24h": "0.1822"
+    },
+    {
+      "product_id": "LSETH-ETH",
+      "base_currency_id": "LSETH",
+      "quote_currency_id": "ETH",
+      "price": "1.08069",
+      "volume_24h": "0.01173",
+      "open_24h": "1.08181",
+      "high_24h": "1.08649",
+      "low_24h": "1.07937"
+    },
+    {
+      "product_id": "LINK-USD",
+      "base_currency_id": "LINK",
+      "quote_currency_id": "USD",
+      "price": "18.55",
+      "volume_24h": "1958262.62",
+      "open_24h": "18.949",
+      "high_24h": "19.768",
+      "low_24h": "18.364"
+    },
+    {
+      "product_id": "DAI-USD",
+      "base_currency_id": "DAI",
+      "quote_currency_id": "USD",
+      "price": "0.9998",
+      "volume_24h": "437768.76312",
+      "open_24h": "1",
+      "high_24h": "1",
+      "low_24h": "0.9997"
+    },
+    {
+      "product_id": "PYR-USD",
+      "base_currency_id": "PYR",
+      "quote_currency_id": "USD",
+      "price": "1.138",
+      "volume_24h": "31127.67",
+      "open_24h": "1.141",
+      "high_24h": "1.182",
+      "low_24h": "1.124"
+    },
+    {
+      "product_id": "ENA-USD",
+      "base_currency_id": "ENA",
+      "quote_currency_id": "USD",
+      "price": "0.4592",
+      "volume_24h": "11617010.1",
+      "open_24h": "0.49",
+      "high_24h": "0.528",
+      "low_24h": "0.4554"
+    },
+    {
+      "product_id": "PRO-USD",
+      "base_currency_id": "PRO",
+      "quote_currency_id": "USD",
+      "price": "0.8628",
+      "volume_24h": "305970.18",
+      "open_24h": "0.8863",
+      "high_24h": "0.9014",
+      "low_24h": "0.8595"
+    },
+    {
+      "product_id": "JASMY-USD",
+      "base_currency_id": "JASMY",
+      "quote_currency_id": "USD",
+      "price": "0.01899",
+      "volume_24h": "520005523",
+      "open_24h": "0.01879",
+      "high_24h": "0.02058",
+      "low_24h": "0.01855"
+    },
+    {
+      "product_id": "ALCX-USD",
+      "base_currency_id": "ALCX",
+      "quote_currency_id": "USD",
+      "price": "9.72",
+      "volume_24h": "1998.3676",
+      "open_24h": "9.74",
+      "high_24h": "10.02",
+      "low_24h": "9.7"
+    },
+    {
+      "product_id": "DOGINME-USD",
+      "base_currency_id": "DOGINME",
+      "quote_currency_id": "USD",
+      "price": "0.0005559",
+      "volume_24h": "805273724",
+      "open_24h": "0.0005904",
+      "high_24h": "0.000601",
+      "low_24h": "0.00055"
+    },
+    {
+      "product_id": "GMT-USDT",
+      "base_currency_id": "GMT",
+      "quote_currency_id": "USDT",
+      "price": "0.0544",
+      "volume_24h": "106877.87",
+      "open_24h": "0.0558",
+      "high_24h": "0.0589",
+      "low_24h": "0.0542"
+    },
+    {
+      "product_id": "AAVE-EUR",
+      "base_currency_id": "AAVE",
+      "quote_currency_id": "EUR",
+      "price": "252.49",
+      "volume_24h": "7442.292",
+      "open_24h": "260.77",
+      "high_24h": "265.39",
+      "low_24h": "249.53"
+    },
+    {
+      "product_id": "HOPR-USD",
+      "base_currency_id": "HOPR",
+      "quote_currency_id": "USD",
+      "price": "0.0718",
+      "volume_24h": "17138245.9",
+      "open_24h": "0.0591",
+      "high_24h": "0.0737",
+      "low_24h": "0.0571"
+    },
+    {
+      "product_id": "ERA-USD",
+      "base_currency_id": "ERA",
+      "quote_currency_id": "USD",
+      "price": "1.3298",
+      "volume_24h": "1296432.86",
+      "open_24h": "1.2138",
+      "high_24h": "1.3698",
+      "low_24h": "1.2027"
+    },
+    {
+      "product_id": "TNSR-USD",
+      "base_currency_id": "TNSR",
+      "quote_currency_id": "USD",
+      "price": "0.151",
+      "volume_24h": "1857188.76",
+      "open_24h": "0.153",
+      "high_24h": "0.169",
+      "low_24h": "0.151"
+    },
+    {
+      "product_id": "NCT-USD",
+      "base_currency_id": "NCT",
+      "quote_currency_id": "USD",
+      "price": "0.02162",
+      "volume_24h": "9664318",
+      "open_24h": "0.02159",
+      "high_24h": "0.02224",
+      "low_24h": "0.02156"
+    },
+    {
+      "product_id": "RED-USD",
+      "base_currency_id": "RED",
+      "quote_currency_id": "USD",
+      "price": "0.3642",
+      "volume_24h": "604417.8",
+      "open_24h": "0.3566",
+      "high_24h": "0.3804",
+      "low_24h": "0.3552"
+    },
+    {
+      "product_id": "CRV-BTC",
+      "base_currency_id": "CRV",
+      "quote_currency_id": "BTC",
+      "price": "0.0000081",
+      "volume_24h": "371973.53",
+      "open_24h": "0.0000078",
+      "high_24h": "0.0000088",
+      "low_24h": "0.0000077"
+    },
+    {
+      "product_id": "OMNI-USD",
+      "base_currency_id": "OMNI",
+      "quote_currency_id": "USD",
+      "price": "2.563",
+      "volume_24h": "149488.17",
+      "open_24h": "2.61",
+      "high_24h": "2.729",
+      "low_24h": "2.534"
+    },
+    {
+      "product_id": "APE-EUR",
+      "base_currency_id": "APE",
+      "quote_currency_id": "EUR",
+      "price": "0.602",
+      "volume_24h": "115168.72",
+      "open_24h": "0.6",
+      "high_24h": "0.625",
+      "low_24h": "0.597"
+    },
+    {
+      "product_id": "LTC-BTC",
+      "base_currency_id": "LTC",
+      "quote_currency_id": "BTC",
+      "price": "0.000976",
+      "volume_24h": "1519.40188031",
+      "open_24h": "0.000961",
+      "high_24h": "0.001025",
+      "low_24h": "0.00096"
+    },
+    {
+      "product_id": "PEPE-USD",
+      "base_currency_id": "PEPE",
+      "quote_currency_id": "USD",
+      "price": "0.00001336",
+      "volume_24h": "1979219221639",
+      "open_24h": "0.00001368",
+      "high_24h": "0.00001419",
+      "low_24h": "0.00001322"
+    },
+    {
+      "product_id": "BONK-USD",
+      "base_currency_id": "BONK",
+      "quote_currency_id": "USD",
+      "price": "0.00003386",
+      "volume_24h": "2876700808747",
+      "open_24h": "0.00003519",
+      "high_24h": "0.00003803",
+      "low_24h": "0.00003347"
+    },
+    {
+      "product_id": "FARM-USD",
+      "base_currency_id": "FARM",
+      "quote_currency_id": "USD",
+      "price": "29.94",
+      "volume_24h": "1763.146",
+      "open_24h": "29.62",
+      "high_24h": "30.84",
+      "low_24h": "29.54"
+    },
+    {
+      "product_id": "MASK-USD",
+      "base_currency_id": "MASK",
+      "quote_currency_id": "USD",
+      "price": "1.48",
+      "volume_24h": "333210.63",
+      "open_24h": "1.51",
+      "high_24h": "1.56",
+      "low_24h": "1.47"
+    },
+    {
+      "product_id": "BCH-USD",
+      "base_currency_id": "BCH",
+      "quote_currency_id": "USD",
+      "price": "519.36",
+      "volume_24h": "10248.64046215",
+      "open_24h": "513.89",
+      "high_24h": "535.58",
+      "low_24h": "511.68"
+    },
+    {
+      "product_id": "BAND-USD",
+      "base_currency_id": "BAND",
+      "quote_currency_id": "USD",
+      "price": "0.745",
+      "volume_24h": "51062.04",
+      "open_24h": "0.77",
+      "high_24h": "0.793",
+      "low_24h": "0.737"
+    },
+    {
+      "product_id": "NEWT-USD",
+      "base_currency_id": "NEWT",
+      "quote_currency_id": "USD",
+      "price": "0.4496",
+      "volume_24h": "15129963.42",
+      "open_24h": "0.3328",
+      "high_24h": "0.4481",
+      "low_24h": "0.3301"
+    },
+    {
+      "product_id": "XLM-USDT",
+      "base_currency_id": "XLM",
+      "quote_currency_id": "USDT",
+      "price": "0.4481",
+      "volume_24h": "442318.8",
+      "open_24h": "0.4535",
+      "high_24h": "0.4744",
+      "low_24h": "0.4411"
+    },
+    {
+      "product_id": "ETC-EUR",
+      "base_currency_id": "ETC",
+      "quote_currency_id": "EUR",
+      "price": "19.42",
+      "volume_24h": "6897.61345995",
+      "open_24h": "19.88",
+      "high_24h": "21.16",
+      "low_24h": "19.36"
+    },
+    {
+      "product_id": "HBAR-USD",
+      "base_currency_id": "HBAR",
+      "quote_currency_id": "USD",
+      "price": "0.25578",
+      "volume_24h": "260853884",
+      "open_24h": "0.26364",
+      "high_24h": "0.27569",
+      "low_24h": "0.25423"
+    },
+    {
+      "product_id": "POND-USD",
+      "base_currency_id": "POND",
+      "quote_currency_id": "USD",
+      "price": "0.0093",
+      "volume_24h": "1302158",
+      "open_24h": "0.00921",
+      "high_24h": "0.00947",
+      "low_24h": "0.00916"
+    },
+    {
+      "product_id": "NEON-USD",
+      "base_currency_id": "NEON",
+      "quote_currency_id": "USD",
+      "price": "0.10429",
+      "volume_24h": "27072432.43",
+      "open_24h": "0.10773",
+      "high_24h": "0.13042",
+      "low_24h": "0.10169"
+    },
+    {
+      "product_id": "DOT-EUR",
+      "base_currency_id": "DOT",
+      "quote_currency_id": "EUR",
+      "price": "3.64",
+      "volume_24h": "83704.587",
+      "open_24h": "3.72",
+      "high_24h": "3.87",
+      "low_24h": "3.61"
+    },
+    {
+      "product_id": "LTC-EUR",
+      "base_currency_id": "LTC",
+      "quote_currency_id": "EUR",
+      "price": "98.11",
+      "volume_24h": "16982.62042742",
+      "open_24h": "96.69",
+      "high_24h": "104.21",
+      "low_24h": "96.45"
+    },
+    {
+      "product_id": "SUKU-USD",
+      "base_currency_id": "SUKU",
+      "quote_currency_id": "USD",
+      "price": "0.0405",
+      "volume_24h": "5974196",
+      "open_24h": "0.0394",
+      "high_24h": "0.043",
+      "low_24h": "0.0387"
+    },
+    {
+      "product_id": "EOS-BTC",
+      "base_currency_id": "EOS",
+      "quote_currency_id": "BTC",
+      "price": "0.00000499",
+      "volume_24h": "2526.1",
+      "open_24h": "0.000005",
+      "high_24h": "0.00000517",
+      "low_24h": "0.00000495"
+    },
+    {
+      "product_id": "MOG-USD",
+      "base_currency_id": "MOG",
+      "quote_currency_id": "USD",
+      "price": "0.00000159",
+      "volume_24h": "4291064314904",
+      "open_24h": "0.00000149",
+      "high_24h": "0.00000176",
+      "low_24h": "0.00000148"
+    },
+    {
+      "product_id": "SOL-EUR",
+      "base_currency_id": "SOL",
+      "quote_currency_id": "EUR",
+      "price": "165.3",
+      "volume_24h": "38977.694",
+      "open_24h": "169.81",
+      "high_24h": "175.82",
+      "low_24h": "163.51"
+    },
+    {
+      "product_id": "TIA-USD",
+      "base_currency_id": "TIA",
+      "quote_currency_id": "USD",
+      "price": "2.05",
+      "volume_24h": "1997147.24",
+      "open_24h": "2.113",
+      "high_24h": "2.211",
+      "low_24h": "2.025"
+    },
+    {
+      "product_id": "SUI-USD",
+      "base_currency_id": "SUI",
+      "quote_currency_id": "USD",
+      "price": "3.8473",
+      "volume_24h": "12268757",
+      "open_24h": "3.8959",
+      "high_24h": "4.0263",
+      "low_24h": "3.81"
+    },
+    {
+      "product_id": "SOL-GBP",
+      "base_currency_id": "SOL",
+      "quote_currency_id": "GBP",
+      "price": "143.5",
+      "volume_24h": "8274.2",
+      "open_24h": "147.4",
+      "high_24h": "152.47",
+      "low_24h": "141.69"
+    },
+    {
+      "product_id": "CRV-USD",
+      "base_currency_id": "CRV",
+      "quote_currency_id": "USD",
+      "price": "0.9517",
+      "volume_24h": "19978930.01",
+      "open_24h": "0.921",
+      "high_24h": "1.049",
+      "low_24h": "0.9078"
+    },
+    {
+      "product_id": "FLOW-USDT",
+      "base_currency_id": "FLOW",
+      "quote_currency_id": "USDT",
+      "price": "0.426",
+      "volume_24h": "5759.84",
+      "open_24h": "0.427",
+      "high_24h": "0.446",
+      "low_24h": "0.426"
+    },
+    {
+      "product_id": "ICP-USD",
+      "base_currency_id": "ICP",
+      "quote_currency_id": "USD",
+      "price": "5.802",
+      "volume_24h": "985963.79",
+      "open_24h": "5.884",
+      "high_24h": "6.141",
+      "low_24h": "5.755"
+    }
+  ]
+}

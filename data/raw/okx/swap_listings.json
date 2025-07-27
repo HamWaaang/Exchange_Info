@@ -270,16 +270,6 @@
     "type": "swap"
   },
   {
-    "symbol": "SAHARA-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1750941000359",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
     "symbol": "1INCH-USDT-SWAP",
     "baseCurrency": "",
     "quoteCurrency": "",
@@ -2066,6 +2056,16 @@
     "state": "live",
     "category": "1",
     "listTime": "1737450000523",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "SAHARA-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750941000359",
     "exchange": "okx",
     "type": "swap"
   },

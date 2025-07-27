@@ -910,6 +910,16 @@
     "type": "spot"
   },
   {
+    "symbol": "ASP-USD",
+    "baseCurrency": "ASP",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1753365600000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
     "symbol": "SPK-USD",
     "baseCurrency": "SPK",
     "quoteCurrency": "USD",
@@ -926,16 +936,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1740108600000",
-    "exchange": "okx",
-    "type": "spot"
-  },
-  {
-    "symbol": "SAHARA-USD",
-    "baseCurrency": "SAHARA",
-    "quoteCurrency": "USD",
-    "state": "live",
-    "category": "1",
-    "listTime": "1750946400000",
     "exchange": "okx",
     "type": "spot"
   },
@@ -2920,6 +2920,16 @@
     "type": "spot"
   },
   {
+    "symbol": "SAHARA-USD",
+    "baseCurrency": "SAHARA",
+    "quoteCurrency": "USD",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750946400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
     "symbol": "SAND-USD",
     "baseCurrency": "SAND",
     "quoteCurrency": "USD",
@@ -3660,6 +3670,16 @@
     "type": "spot"
   },
   {
+    "symbol": "ASP-USDT",
+    "baseCurrency": "ASP",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1753354800000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
     "symbol": "SPK-USDT",
     "baseCurrency": "SPK",
     "quoteCurrency": "USDT",
@@ -3676,16 +3696,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1740034800000",
-    "exchange": "okx",
-    "type": "spot"
-  },
-  {
-    "symbol": "SAHARA-USDT",
-    "baseCurrency": "SAHARA",
-    "quoteCurrency": "USDT",
-    "state": "live",
-    "category": "1",
-    "listTime": "1750935600000",
     "exchange": "okx",
     "type": "spot"
   },
@@ -5876,6 +5886,16 @@
     "state": "live",
     "category": "1",
     "listTime": "1713857400000",
+    "exchange": "okx",
+    "type": "spot"
+  },
+  {
+    "symbol": "SAHARA-USDT",
+    "baseCurrency": "SAHARA",
+    "quoteCurrency": "USDT",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750935600000",
     "exchange": "okx",
     "type": "spot"
   },

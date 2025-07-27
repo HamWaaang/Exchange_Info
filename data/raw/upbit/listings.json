@@ -750,6 +750,26 @@
     "english_name": "Uniswap"
   },
   {
+    "symbol": "BTC-SYRUP",
+    "baseAsset": "SYRUP",
+    "quoteAsset": "BTC",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "메이플파이낸스",
+    "english_name": "Maple Finance"
+  },
+  {
+    "symbol": "USDT-HUMA",
+    "baseAsset": "HUMA",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "후마파이낸스",
+    "english_name": "Huma Finance"
+  },
+  {
     "symbol": "BTC-OAS",
     "baseAsset": "OAS",
     "quoteAsset": "BTC",
@@ -1378,6 +1398,16 @@
     "type": "spot",
     "korean_name": "오아시스",
     "english_name": "Oasys"
+  },
+  {
+    "symbol": "BTC-HUMA",
+    "baseAsset": "HUMA",
+    "quoteAsset": "BTC",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "후마파이낸스",
+    "english_name": "Huma Finance"
   },
   {
     "symbol": "KRW-CELO",
@@ -5000,6 +5030,16 @@
     "english_name": "Atletico De Madrid Fan Token"
   },
   {
+    "symbol": "KRW-SYRUP",
+    "baseAsset": "SYRUP",
+    "quoteAsset": "KRW",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "메이플파이낸스",
+    "english_name": "Maple Finance"
+  },
+  {
     "symbol": "BTC-STRIKE",
     "baseAsset": "STRIKE",
     "quoteAsset": "BTC",
@@ -5278,6 +5318,16 @@
     "type": "spot",
     "korean_name": "메타디움",
     "english_name": "Metadium"
+  },
+  {
+    "symbol": "USDT-SYRUP",
+    "baseAsset": "SYRUP",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "메이플파이낸스",
+    "english_name": "Maple Finance"
   },
   {
     "symbol": "BTC-DENT",

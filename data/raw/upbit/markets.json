@@ -375,6 +375,16 @@
     "english_name": "Uniswap"
   },
   {
+    "market": "BTC-SYRUP",
+    "korean_name": "메이플파이낸스",
+    "english_name": "Maple Finance"
+  },
+  {
+    "market": "USDT-HUMA",
+    "korean_name": "후마파이낸스",
+    "english_name": "Huma Finance"
+  },
+  {
     "market": "BTC-OAS",
     "korean_name": "오아시스",
     "english_name": "Oasys"
@@ -688,6 +698,11 @@
     "market": "USDT-OAS",
     "korean_name": "오아시스",
     "english_name": "Oasys"
+  },
+  {
+    "market": "BTC-HUMA",
+    "korean_name": "후마파이낸스",
+    "english_name": "Huma Finance"
   },
   {
     "market": "KRW-CELO",
@@ -2500,6 +2515,11 @@
     "english_name": "Atletico De Madrid Fan Token"
   },
   {
+    "market": "KRW-SYRUP",
+    "korean_name": "메이플파이낸스",
+    "english_name": "Maple Finance"
+  },
+  {
     "market": "BTC-STRIKE",
     "korean_name": "스트라이크",
     "english_name": "Strike"
@@ -2638,6 +2658,11 @@
     "market": "BTC-META",
     "korean_name": "메타디움",
     "english_name": "Metadium"
+  },
+  {
+    "market": "USDT-SYRUP",
+    "korean_name": "메이플파이낸스",
+    "english_name": "Maple Finance"
   },
   {
     "market": "BTC-DENT",

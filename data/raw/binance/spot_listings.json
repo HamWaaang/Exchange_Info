@@ -10332,15 +10332,6 @@
     "type": "spot"
   },
   {
-    "symbol": "HIVEFDUSD",
-    "baseAsset": "HIVE",
-    "quoteAsset": "FDUSD",
-    "status": "TRADING",
-    "permissions": [],
-    "exchange": "binance",
-    "type": "spot"
-  },
-  {
     "symbol": "HIVEUSDC",
     "baseAsset": "HIVE",
     "quoteAsset": "USDC",
@@ -11361,15 +11352,6 @@
     "symbol": "GPSUSDC",
     "baseAsset": "GPS",
     "quoteAsset": "USDC",
-    "status": "TRADING",
-    "permissions": [],
-    "exchange": "binance",
-    "type": "spot"
-  },
-  {
-    "symbol": "GPSFDUSD",
-    "baseAsset": "GPS",
-    "quoteAsset": "FDUSD",
     "status": "TRADING",
     "permissions": [],
     "exchange": "binance",

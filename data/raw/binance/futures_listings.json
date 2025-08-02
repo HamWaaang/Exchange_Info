@@ -5443,5 +5443,93 @@
     "onboardDate": 1753271100000,
     "exchange": "binance",
     "type": "futures"
+  },
+  {
+    "symbol": "ZORAUSDT",
+    "baseAsset": "ZORA",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "contractType": "PERPETUAL",
+    "deliveryDate": 4133404800000,
+    "onboardDate": 1753441200000,
+    "exchange": "binance",
+    "type": "futures"
+  },
+  {
+    "symbol": "TAGUSDT",
+    "baseAsset": "TAG",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "contractType": "PERPETUAL",
+    "deliveryDate": 4133404800000,
+    "onboardDate": 1753442100000,
+    "exchange": "binance",
+    "type": "futures"
+  },
+  {
+    "symbol": "ZRCUSDT",
+    "baseAsset": "ZRC",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "contractType": "PERPETUAL",
+    "deliveryDate": 4133404800000,
+    "onboardDate": 1753782300000,
+    "exchange": "binance",
+    "type": "futures"
+  },
+  {
+    "symbol": "ESPORTSUSDT",
+    "baseAsset": "ESPORTS",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "contractType": "PERPETUAL",
+    "deliveryDate": 4133404800000,
+    "onboardDate": 1753783200000,
+    "exchange": "binance",
+    "type": "futures"
+  },
+  {
+    "symbol": "TREEUSDT",
+    "baseAsset": "TREE",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "contractType": "PERPETUAL",
+    "deliveryDate": 4133404800000,
+    "onboardDate": 1753797600000,
+    "exchange": "binance",
+    "type": "futures"
+  },
+  {
+    "symbol": "A2ZUSDT",
+    "baseAsset": "A2Z",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "contractType": "PERPETUAL",
+    "deliveryDate": 4133404800000,
+    "onboardDate": 1753862400000,
+    "exchange": "binance",
+    "type": "futures"
+  },
+  {
+    "symbol": "PLAYUSDT",
+    "baseAsset": "PLAY",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "contractType": "PERPETUAL",
+    "deliveryDate": 4133404800000,
+    "onboardDate": 1753954200000,
+    "exchange": "binance",
+    "type": "futures"
+  },
+  {
+    "symbol": "NAORISUSDT",
+    "baseAsset": "NAORIS",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "contractType": "PERPETUAL",
+    "deliveryDate": 4133404800000,
+    "onboardDate": 1753965000000,
+    "exchange": "binance",
+    "type": "futures"
   }
 ]

@@ -1,0 +1,2 @@
+# 每天凌晨2点运行一次数据收集
+0 2 * * * docker exec exchange-info-collector python3 main_all.py >> /app/logs/daily.log 2>&1 

@@ -1365,6 +1365,11 @@
     "english_name": "Lumen"
   },
   {
+    "market": "KRW-OP",
+    "korean_name": "옵티미즘",
+    "english_name": "Optimism"
+  },
+  {
     "market": "BTC-MVL",
     "korean_name": "엠블",
     "english_name": "MVL"
@@ -2130,6 +2135,11 @@
     "english_name": "Blast"
   },
   {
+    "market": "USDT-OP",
+    "korean_name": "옵티미즘",
+    "english_name": "Optimism"
+  },
+  {
     "market": "BTC-ETH",
     "korean_name": "이더리움",
     "english_name": "Ethereum"
@@ -2330,6 +2340,11 @@
     "english_name": "Siacoin"
   },
   {
+    "market": "BTC-OP",
+    "korean_name": "옵티미즘",
+    "english_name": "Optimism"
+  },
+  {
     "market": "BTC-OM",
     "korean_name": "만트라",
     "english_name": "MANTRA"
@@ -2373,6 +2388,11 @@
     "market": "BTC-YGG",
     "korean_name": "일드길드게임즈",
     "english_name": "Yield Guild Games"
+  },
+  {
+    "market": "KRW-OMNI",
+    "korean_name": "옴니네트워크",
+    "english_name": "Omni Network"
   },
   {
     "market": "USDT-SIGN",

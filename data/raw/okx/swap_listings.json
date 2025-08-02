@@ -250,22 +250,32 @@
     "type": "swap"
   },
   {
-    "symbol": "SPK-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1750156200346",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
     "symbol": "PI-USDT-SWAP",
     "baseCurrency": "",
     "quoteCurrency": "",
     "state": "live",
     "category": "1",
     "listTime": "1740042000388",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "PUMP-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1752514200381",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
+    "symbol": "VINE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1737889201529",
     "exchange": "okx",
     "type": "swap"
   },
@@ -376,16 +386,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1734686100190",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
-    "symbol": "AIDOGE-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1683086103049",
     "exchange": "okx",
     "type": "swap"
   },
@@ -566,26 +566,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1744282800387",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
-    "symbol": "BADGER-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1611910800000",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
-    "symbol": "BAL-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1599646371000",
     "exchange": "okx",
     "type": "swap"
   },
@@ -826,16 +806,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1599214371000",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
-    "symbol": "CSPR-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1620982800000",
     "exchange": "okx",
     "type": "swap"
   },
@@ -1266,16 +1236,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1708687651159",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
-    "symbol": "ID-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1702029300682",
     "exchange": "okx",
     "type": "swap"
   },
@@ -1730,12 +1690,12 @@
     "type": "swap"
   },
   {
-    "symbol": "NIL-USDT-SWAP",
+    "symbol": "NEWT-USDT-SWAP",
     "baseCurrency": "",
     "quoteCurrency": "",
     "state": "live",
     "category": "1",
-    "listTime": "1746688500371",
+    "listTime": "1753438500274",
     "exchange": "okx",
     "type": "swap"
   },
@@ -1960,16 +1920,6 @@
     "type": "swap"
   },
   {
-    "symbol": "PUMP-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1752514200381",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
     "symbol": "PYTH-USDT-SWAP",
     "baseCurrency": "",
     "quoteCurrency": "",
@@ -1996,16 +1946,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1710239100609",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
-    "symbol": "RDNT-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1682319300799",
     "exchange": "okx",
     "type": "swap"
   },
@@ -2190,6 +2130,16 @@
     "type": "swap"
   },
   {
+    "symbol": "SPK-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1750156200346",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
     "symbol": "SPX-USDT-SWAP",
     "baseCurrency": "",
     "quoteCurrency": "",
@@ -2340,6 +2290,16 @@
     "type": "swap"
   },
   {
+    "symbol": "TREE-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1753799400400",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
     "symbol": "TRUMP-USDT-SWAP",
     "baseCurrency": "",
     "quoteCurrency": "",
@@ -2400,6 +2360,16 @@
     "type": "swap"
   },
   {
+    "symbol": "USELESS-USDT-SWAP",
+    "baseCurrency": "",
+    "quoteCurrency": "",
+    "state": "live",
+    "category": "1",
+    "listTime": "1753437600380",
+    "exchange": "okx",
+    "type": "swap"
+  },
+  {
     "symbol": "USTC-USDT-SWAP",
     "baseCurrency": "",
     "quoteCurrency": "",
@@ -2426,16 +2396,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1734408000582",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
-    "symbol": "VINE-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1737889201529",
     "exchange": "okx",
     "type": "swap"
   },
@@ -2526,16 +2486,6 @@
     "state": "live",
     "category": "1",
     "listTime": "1744192800563",
-    "exchange": "okx",
-    "type": "swap"
-  },
-  {
-    "symbol": "XCH-USDT-SWAP",
-    "baseCurrency": "",
-    "quoteCurrency": "",
-    "state": "live",
-    "category": "1",
-    "listTime": "1620464400000",
     "exchange": "okx",
     "type": "swap"
   },

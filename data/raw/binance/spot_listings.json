@@ -4752,24 +4752,6 @@
     "type": "spot"
   },
   {
-    "symbol": "LOKABTC",
-    "baseAsset": "LOKA",
-    "quoteAsset": "BTC",
-    "status": "TRADING",
-    "permissions": [],
-    "exchange": "binance",
-    "type": "spot"
-  },
-  {
-    "symbol": "LOKAUSDT",
-    "baseAsset": "LOKA",
-    "quoteAsset": "USDT",
-    "status": "TRADING",
-    "permissions": [],
-    "exchange": "binance",
-    "type": "spot"
-  },
-  {
     "symbol": "ROSETRY",
     "baseAsset": "ROSE",
     "quoteAsset": "TRY",
@@ -5726,15 +5708,6 @@
   {
     "symbol": "ACHTRY",
     "baseAsset": "ACH",
-    "quoteAsset": "TRY",
-    "status": "TRADING",
-    "permissions": [],
-    "exchange": "binance",
-    "type": "spot"
-  },
-  {
-    "symbol": "XVSTRY",
-    "baseAsset": "XVS",
     "quoteAsset": "TRY",
     "status": "TRADING",
     "permissions": [],
@@ -8481,15 +8454,6 @@
     "symbol": "PEPEBRL",
     "baseAsset": "PEPE",
     "quoteAsset": "BRL",
-    "status": "TRADING",
-    "permissions": [],
-    "exchange": "binance",
-    "type": "spot"
-  },
-  {
-    "symbol": "YGGTRY",
-    "baseAsset": "YGG",
-    "quoteAsset": "TRY",
     "status": "TRADING",
     "permissions": [],
     "exchange": "binance",
@@ -13260,6 +13224,87 @@
     "symbol": "ROSEUSDC",
     "baseAsset": "ROSE",
     "quoteAsset": "USDC",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "CVXUSDC",
+    "baseAsset": "CVX",
+    "quoteAsset": "USDC",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "FUNUSDC",
+    "baseAsset": "FUN",
+    "quoteAsset": "USDC",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "LISTAUSDC",
+    "baseAsset": "LISTA",
+    "quoteAsset": "USDC",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "TREEUSDT",
+    "baseAsset": "TREE",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "TREEUSDC",
+    "baseAsset": "TREE",
+    "quoteAsset": "USDC",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "TREEBNB",
+    "baseAsset": "TREE",
+    "quoteAsset": "BNB",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "TREEFDUSD",
+    "baseAsset": "TREE",
+    "quoteAsset": "FDUSD",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "TREETRY",
+    "baseAsset": "TREE",
+    "quoteAsset": "TRY",
+    "status": "TRADING",
+    "permissions": [],
+    "exchange": "binance",
+    "type": "spot"
+  },
+  {
+    "symbol": "A2ZUSDT",
+    "baseAsset": "A2Z",
+    "quoteAsset": "USDT",
     "status": "TRADING",
     "permissions": [],
     "exchange": "binance",

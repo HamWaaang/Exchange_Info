@@ -2730,6 +2730,16 @@
     "english_name": "Lumen"
   },
   {
+    "symbol": "KRW-OP",
+    "baseAsset": "OP",
+    "quoteAsset": "KRW",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "옵티미즘",
+    "english_name": "Optimism"
+  },
+  {
     "symbol": "BTC-MVL",
     "baseAsset": "MVL",
     "quoteAsset": "BTC",
@@ -4260,6 +4270,16 @@
     "english_name": "Blast"
   },
   {
+    "symbol": "USDT-OP",
+    "baseAsset": "OP",
+    "quoteAsset": "USDT",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "옵티미즘",
+    "english_name": "Optimism"
+  },
+  {
     "symbol": "BTC-ETH",
     "baseAsset": "ETH",
     "quoteAsset": "BTC",
@@ -4660,6 +4680,16 @@
     "english_name": "Siacoin"
   },
   {
+    "symbol": "BTC-OP",
+    "baseAsset": "OP",
+    "quoteAsset": "BTC",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "옵티미즘",
+    "english_name": "Optimism"
+  },
+  {
     "symbol": "BTC-OM",
     "baseAsset": "OM",
     "quoteAsset": "BTC",
@@ -4748,6 +4778,16 @@
     "type": "spot",
     "korean_name": "일드길드게임즈",
     "english_name": "Yield Guild Games"
+  },
+  {
+    "symbol": "KRW-OMNI",
+    "baseAsset": "OMNI",
+    "quoteAsset": "KRW",
+    "status": "TRADING",
+    "exchange": "upbit",
+    "type": "spot",
+    "korean_name": "옴니네트워크",
+    "english_name": "Omni Network"
   },
   {
     "symbol": "USDT-SIGN",

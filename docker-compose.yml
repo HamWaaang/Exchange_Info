@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  exchange-info:
+    build: .
+    container_name: exchange-info-collector
+    volumes:
+      # 挂载数据目录，确保数据持久化
+      - ./data:/app/data
+      # 挂载配置文件，方便修改Telegram配置
+      - ./telegram_config.py:/app/telegram_config.py
+    environment:
+      - TZ=Asia/Shanghai
+    restart: unless-stopped
+    # 启动时立即运行一次，然后每24小时运行一次
+    command: ["./scheduler.sh"] 

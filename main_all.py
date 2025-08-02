@@ -16,8 +16,14 @@ def load_exchange_data():
     # 加载Coinbase数据
     coinbase_df = pd.read_csv('data/processed/coinbase_data.csv')
     
-    # 加载OKX数据
-    okx_df = pd.read_csv('data/processed/okx_data.csv')
+    # 加载OKX数据（如果文件存在）
+    try:
+        okx_df = pd.read_csv('data/processed/okx_data.csv')
+        print("✅ 成功加载OKX数据")
+    except FileNotFoundError:
+        print("⚠️  OKX数据文件不存在，将使用空数据")
+        # 创建一个空的DataFrame，包含必要的列
+        okx_df = pd.DataFrame(columns=['baseCurrency', 'type', 'trading_type'])
     
     # 加载Binance数据
     binance_df = pd.read_csv('data/processed/binance_data.csv')
@@ -65,13 +71,23 @@ def create_comparison_table():
     
     # 提取基础货币
     coinbase_currencies = extract_base_currencies(coinbase_df, 'coinbase', 'baseCurrency')
-    okx_currencies = extract_base_currencies(okx_df, 'okx', 'baseCurrency')
+    
+    # 处理OKX数据（可能为空）
+    if len(okx_df) > 0:
+        okx_currencies = extract_base_currencies(okx_df, 'okx', 'baseCurrency')
+    else:
+        okx_currencies = pd.DataFrame(columns=['baseCurrency', 'type', 'trading_type', 'listTime', 'exchange'])
+    
     binance_currencies = extract_base_currencies(binance_df, 'binance', 'baseAsset')
     upbit_currencies = extract_base_currencies(upbit_df, 'upbit', 'baseAsset')
     hyperliquid_currencies = extract_base_currencies(hyperliquid_df, 'hyperliquid', 'baseAsset')
     
-    # 合并所有数据
-    all_currencies = pd.concat([coinbase_currencies, okx_currencies, binance_currencies, upbit_currencies, hyperliquid_currencies], ignore_index=True)
+    # 合并所有数据（只合并非空的数据）
+    dataframes_to_concat = [coinbase_currencies, binance_currencies, upbit_currencies, hyperliquid_currencies]
+    if len(okx_currencies) > 0:
+        dataframes_to_concat.insert(1, okx_currencies)
+    
+    all_currencies = pd.concat(dataframes_to_concat, ignore_index=True)
     
     # 去重并创建唯一的基础货币列表
     unique_currencies = all_currencies['baseCurrency'].unique()
@@ -541,11 +557,15 @@ def main():
     print(f"✅ Binance数据收集完成，耗时: {binance_time:.2f}秒")
     
     # 收集OKX数据
-    print("\n🟢 开始收集OKX数据...")
-    start_time = time.time()
-    okx_main()
-    okx_time = time.time() - start_time
-    print(f"✅ OKX数据收集完成，耗时: {okx_time:.2f}秒")
+    # print("\n🟢 开始收集OKX数据...")
+    # start_time = time.time()
+    # okx_main()
+    # okx_time = time.time() - start_time
+    # print(f"✅ OKX数据收集完成，耗时: {okx_time:.2f}秒")
+    
+    # 暂时跳过OKX数据收集（网络连接问题）
+    print("\n🟢 暂时跳过OKX数据收集（网络连接问题）...")
+    okx_time = 0.0
     
     # 收集Coinbase数据
     print("\n🔵 开始收集Coinbase数据...")
